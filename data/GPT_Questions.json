@@ -1,0 +1,1286 @@
+[
+    {
+        "question": "Should Aadhaar-based biometric authentication be mandatory for voting to eliminate fraud, even if it risks excluding some citizens?",
+        "yes": {
+            "statement": "Yes. A clean democracy needs hard filters.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Participation matters more than perfection.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India continue purchasing discounted Russian oil despite Western sanctions?",
+        "yes": {
+            "statement": "Yes. Foreign policy runs on interest, not guilt.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Moral ambiguity today becomes isolation tomorrow.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should AI-powered facial recognition be deployed nationwide to pre-empt crime and unrest?",
+        "yes": {
+            "statement": "Yes. Prevention beats post-mortems.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. A watched citizen is already half-guilty.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should social media companies be forced to share political algorithms with the government?",
+        "yes": {
+            "statement": "Yes. Hidden levers manipulate consent.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Transparency to power is a backdoor.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India push semiconductor manufacturing even if it requires heavy subsidies and land acquisition?",
+        "yes": {
+            "statement": "Yes. Strategic autonomy is expensive.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. National pride shouldn’t evict livelihoods.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should the Uniform Civil Code be enforced within a fixed timeline regardless of social resistance?",
+        "yes": {
+            "statement": "Yes. Law cannot wait for comfort.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Reform imposed is reform rejected.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should journalists be required to publicly disclose funding sources and affiliations?",
+        "yes": {
+            "statement": "Yes. Transparency is the price of influence.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Power already knows who to silence.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should deepfake political content be criminalised even if satire is affected?",
+        "yes": {
+            "statement": "Yes. Democracy can’t survive synthetic lies.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Truth doesn’t need babysitters.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should environmental clearances be relaxed for large infrastructure projects to boost growth?",
+        "yes": {
+            "statement": "Yes. You can’t eat forests.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Growth on a dead planet is cosplay.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should religious processions be restricted if they disrupt traffic and public order?",
+        "yes": {
+            "statement": "Yes. Faith doesn’t get right of way.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Culture isn’t a weekend hobby.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should political influencers be regulated like traditional media?",
+        "yes": {
+            "statement": "Yes. Reach without rules is propaganda.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Popularity isn’t a broadcast license.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should the government publish caste census data despite polarisation risks?",
+        "yes": {
+            "statement": "Yes. You can’t fix what you refuse to count.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Numbers harden fault lines.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should sedition laws be retained to handle modern misinformation campaigns?",
+        "yes": {
+            "statement": "Yes. Chaos wears many masks.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Dissent is not treason.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should foreign universities operate freely in India without local curriculum controls?",
+        "yes": {
+            "statement": "Yes. Knowledge thrives without borders.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Education shapes sovereignty.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should same-sex marriage be legalised even if it conflicts with religious doctrine?",
+        "yes": {
+            "statement": "Yes. Love is not subject to veto.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Social change cannot be judicially forced.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should political parties receive state funding to curb corporate influence?",
+        "yes": {
+            "statement": "Yes. Democracy shouldn’t be pay-to-play.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Taxpayers shouldn’t bankroll incompetence.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India impose term limits on Prime Ministers?",
+        "yes": {
+            "statement": "Yes. Power decays quietly.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Experience compounds value.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should citizen data collected by the state be monetised by private firms?",
+        "yes": {
+            "statement": "Yes. Idle data is wasted capital.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Citizens are not raw material.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India openly mediate in the Israel–Palestine conflict to boost global stature?",
+        "yes": {
+            "statement": "Yes. Neutrality is influence.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Some fires burn the mediator.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should history textbooks be rewritten to reflect present-day national values?",
+        "yes": {
+            "statement": "Yes. History must serve the living.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Truth isn’t seasonal.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should online anonymity be restricted to curb abuse and misinformation?",
+        "yes": {
+            "statement": "Yes. Masks empower cruelty.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Anonymity protects the powerless.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India prioritise defence exports even if it fuels global conflicts?",
+        "yes": {
+            "statement": "Yes. If not us, someone else will.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Blood money smells the same everywhere.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should large tech companies be broken up to prevent monopolies?",
+        "yes": {
+            "statement": "Yes. Innovation dies under empires.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Scale is earned, not stolen.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should political rallies require prior digital clearance and crowd caps?",
+        "yes": {
+            "statement": "Yes. Order beats chaos.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Protest is not a ticketed event.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should population control measures be linked to welfare eligibility?",
+        "yes": {
+            "statement": "Yes. Responsibility precedes entitlement.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Poverty isn’t a math problem.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should courts have the power to overrule Parliament on moral legislation?",
+        "yes": {
+            "statement": "Yes. Rights outlive majorities.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Unelected vetoes erode democracy.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should government jobs prioritise local candidates over merit rankings?",
+        "yes": {
+            "statement": "Yes. Representation stabilises society.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Merit is the only fair currency.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India allow commercial surrogacy under strict regulation?",
+        "yes": {
+            "statement": "Yes. Regulated choice beats black markets.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Bodies are not contracts.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should protestors be held financially liable for public property damage?",
+        "yes": {
+            "statement": "Yes. Dissent doesn’t mean destruction.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Fear of fines kills protest.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India mandate a four-day work week nationwide?",
+        "yes": {
+            "statement": "Yes. Productivity is about outcomes.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Ambition doesn’t punch a clock.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should the state regulate godmen and religious trusts like corporations?",
+        "yes": {
+            "statement": "Yes. Faith handling money needs audits.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Belief cannot be balance-sheeted.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should public shaming be a valid tool against corruption?",
+        "yes": {
+            "statement": "Yes. Sunlight hurts more than jail.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Justice isn’t a spectacle.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should unelected institutions have veto power over elected governments?",
+        "yes": {
+            "statement": "Yes. Guardrails matter more than speed.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Mandates trump manuals.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India prioritise Hindi for official communication nationwide?",
+        "yes": {
+            "statement": "Yes. Unity needs a common tongue.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Diversity isn’t a translation error.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should voting be compulsory with penalties for non-participation?",
+        "yes": {
+            "statement": "Yes. Citizenship demands effort.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Choice includes apathy.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should prisons focus more on rehabilitation than punishment?",
+        "yes": {
+            "statement": "Yes. Justice should heal.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Deterrence requires fear.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should farm loan waivers be used as an election promise despite long-term fiscal strain?",
+        "yes": {
+            "statement": "Yes. Survival comes before balance sheets.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Debt relief today is inflation tomorrow.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should the government impose strict controls on protests that block highways and railways?",
+        "yes": {
+            "statement": "Yes. Infrastructure is not a bargaining chip.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Disruption is the language of the unheard.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should reservation policies be expanded to include the private sector?",
+        "yes": {
+            "statement": "Yes. Opportunity hoarding doesn’t end at government gates.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Quotas kill competitiveness.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should governments offer free electricity and water even if utilities run at a loss?",
+        "yes": {
+            "statement": "Yes. Basics are rights, not luxuries.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Someone always pays the bill.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should religious conversions be regulated by the state to prevent coercion?",
+        "yes": {
+            "statement": "Yes. Faith chosen under pressure isn’t faith.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Belief doesn’t need permission slips.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should India deploy armed drones for internal security operations?",
+        "yes": {
+            "statement": "Yes. Precision beats boots.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Militarising policing erodes trust.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should media trials be punishable even if they expose real wrongdoing?",
+        "yes": {
+            "statement": "Yes. Justice isn’t a reality show.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Sunlight forces accountability.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should the government cap prices of essential medicines permanently?",
+        "yes": {
+            "statement": "Yes. Lives outrank profits.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Innovation dies under ceilings.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India criminalise marital rape explicitly in law?",
+        "yes": {
+            "statement": "Yes. Consent doesn’t end at marriage.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Criminal law will be misused.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should public schools prioritise moral education aligned with national values?",
+        "yes": {
+            "statement": "Yes. Education shapes citizens, not just workers.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Morality isn’t a syllabus.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should the state regulate prices of private school education?",
+        "yes": {
+            "statement": "Yes. Education isn’t a commodity.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Quality follows competition.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India restrict foreign funding to NGOs involved in political advocacy?",
+        "yes": {
+            "statement": "Yes. Sovereignty isn’t crowdsourced.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Civil society needs oxygen.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should judges be evaluated publicly on performance metrics?",
+        "yes": {
+            "statement": "Yes. Accountability strengthens trust.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Justice can’t be KPI-driven.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India prioritise domestic defence needs over humanitarian aid abroad?",
+        "yes": {
+            "statement": "Yes. Charity begins at the border.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Global responsibility builds influence.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should alcohol sales be banned in states with high domestic violence rates?",
+        "yes": {
+            "statement": "Yes. Addiction fuels abuse.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Prohibition punishes everyone.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should the government control curriculum content on sensitive historical events?",
+        "yes": {
+            "statement": "Yes. Stability requires restraint.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Sanitised history breeds ignorance.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should large infrastructure projects bypass local consent mechanisms?",
+        "yes": {
+            "statement": "Yes. National interest outweighs local vetoes.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Development without consent is occupation.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should India allow private players to fully manage railways?",
+        "yes": {
+            "statement": "Yes. Efficiency beats sentiment.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Public goods need public control.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should blasphemy-like laws exist to prevent communal violence?",
+        "yes": {
+            "statement": "Yes. Peace sometimes needs restraint.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Fear is not harmony.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should election campaigns be capped strictly in spending and duration?",
+        "yes": {
+            "statement": "Yes. Money distorts consent.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Politics isn’t a timed exam.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India introduce a universal basic income?",
+        "yes": {
+            "statement": "Yes. Security enables risk-taking.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Dependency kills drive.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should public officials be banned from religious symbolism while on duty?",
+        "yes": {
+            "statement": "Yes. The state must look neutral.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Identity doesn’t clock out.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should military service be mandatory for all citizens?",
+        "yes": {
+            "statement": "Yes. Rights demand sacrifice.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Forced patriotism is theatre.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should social media boycotts be treated as economic sabotage?",
+        "yes": {
+            "statement": "Yes. Mob economics destroy livelihoods.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Consumers choose with wallets.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should courts be allowed to order internet shutdowns during unrest?",
+        "yes": {
+            "statement": "Yes. Silence prevents wildfire.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Connectivity is a lifeline.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should government advertising be banned in private media?",
+        "yes": {
+            "statement": "Yes. Public money shouldn’t buy loyalty.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Outreach isn’t propaganda by default.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should India criminalise fake news even without proof of intent?",
+        "yes": {
+            "statement": "Yes. Damage matters more than motive.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Error isn’t a crime.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should large religious gatherings require government permits and caps?",
+        "yes": {
+            "statement": "Yes. Faith doesn’t override safety.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Devotion isn’t a ticketed event.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should political defections trigger automatic re-elections?",
+        "yes": {
+            "statement": "Yes. Voters deserve consistency.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Politics isn’t a prison.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should public servants be barred from social media opinions?",
+        "yes": {
+            "statement": "Yes. Authority needs restraint.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Silence breeds resentment.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should the state define what constitutes offensive art?",
+        "yes": {
+            "statement": "Yes. Expression has limits.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Art dies under approval.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should India pre-emptively strike militant camps across borders if intelligence agencies believe an attack is inevitable, even without international consensus?",
+        "yes": {
+            "statement": "Yes. Waiting for permission is a luxury nations under threat cannot afford.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Acting alone today justifies retaliation tomorrow.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should citizenship benefits be prioritized for long-term residents who contribute economically, even if they lack formal documentation?",
+        "yes": {
+            "statement": "Yes. Contribution matters more than paperwork.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Citizenship cannot be negotiated on utility.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should mass surveillance using AI-powered facial recognition be accepted if it demonstrably reduces violent crime?",
+        "yes": {
+            "statement": "Yes. Safety is the first freedom.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. A watched society is already a controlled one.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If a democratically elected government repeatedly bypasses debate using ordinances, should courts intervene to limit its power?",
+        "yes": {
+            "statement": "Yes. Democracy is process, not just outcome.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Courts should not override the people’s mandate.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should freedom of speech protections extend to speech that openly insults national symbols and collective identity?",
+        "yes": {
+            "statement": "Yes. National pride that fears words is already hollow.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Symbols bind society and deserve respect.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should the government mandate a single national language for official communication to strengthen unity?",
+        "yes": {
+            "statement": "Yes. Unity requires a common tongue.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Forced uniformity erases lived diversity.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should refugee intake be capped strictly based on economic capacity rather than humanitarian obligation?",
+        "yes": {
+            "statement": "Yes. Compassion without capacity leads to collapse.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Humanity is not a budget line item.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should voting rights be restricted for citizens who consistently abstain from civic duties like taxes or jury service?",
+        "yes": {
+            "statement": "Yes. Rights must mirror responsibility.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Democracy cannot condition participation.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If an AI system demonstrably outperforms human judges in consistency and speed, should it be allowed to decide certain categories of cases?",
+        "yes": {
+            "statement": "Yes. Justice delayed by humans is injustice itself.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Justice without human conscience is tyranny by code.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should the state have the power to temporarily suspend elections during prolonged national emergencies?",
+        "yes": {
+            "statement": "Yes. Survival precedes procedure.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Emergencies are when democracy matters most.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should children be legally allowed to question or opt out of their parents’ religious identity once they reach adolescence?",
+        "yes": {
+            "statement": "Yes. Faith chosen is stronger than faith inherited.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Family continuity deserves protection.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should political parties be banned from making promises that directly strain long-term fiscal stability?",
+        "yes": {
+            "statement": "Yes. Governance should be bound by economic reality.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Politics cannot be audited like a balance sheet.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "If most citizens willingly trade privacy for convenience, should dissenters still be protected by law?",
+        "yes": {
+            "statement": "Yes. Rights exist precisely to protect minorities.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Collective choice should prevail.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should the state intervene to preserve traditional cultural practices even if younger generations reject them?",
+        "yes": {
+            "statement": "Yes. Culture must be protected from erosion.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Culture survives only by choice, not force.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should this very question deck be regulated or censored if it is found to polarize society?",
+        "yes": {
+            "statement": "Yes. Social harmony outweighs unrestricted discourse.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. A democracy afraid of questions is already broken.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If democratic choices consistently lead to inequality, should technocratic governance replace electoral politics?",
+        "yes": {
+            "statement": "Yes. Outcomes matter more than rituals.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Imperfect democracy beats perfect control.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If a government is elected fairly but later rules primarily to protect itself from losing power, should citizens still respect its legitimacy?",
+        "yes": {
+            "statement": "Yes. Legitimacy comes from the ballot, not intentions.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Power that fears accountability has already expired.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should citizens be legally required to consume state-verified news during national emergencies to prevent panic and misinformation?",
+        "yes": {
+            "statement": "Yes. Truth must be centralized when chaos threatens order.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Forced truth is just another form of propaganda.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If economic growth demands environmental damage today but promises technological fixes tomorrow, should the state proceed?",
+        "yes": {
+            "statement": "Yes. Poverty today kills faster than climate forecasts.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Borrowing from the future is moral bankruptcy.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should artists and filmmakers be held legally accountable if their work foreseeably triggers violence or unrest?",
+        "yes": {
+            "statement": "Yes. Expression without responsibility is reckless power.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Art reflects society; it does not command it.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If a policy improves national averages but worsens outcomes for a specific region or community, should it still be pursued?",
+        "yes": {
+            "statement": "Yes. Nations are steered by aggregates, not exceptions.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Sacrificing the few corrodes the whole.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should historical figures be judged primarily by the moral standards of their time rather than today's values?",
+        "yes": {
+            "statement": "Yes. Context matters more than contemporary outrage.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Harm does not expire with time.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "If a majority willingly supports an unjust policy, does opposing it still make you democratic?",
+        "yes": {
+            "statement": "Yes. Democracy includes the right to resist the majority.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Democracy ends where majority choice begins.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should data generated by citizens automatically belong to the state if it helps optimize public services?",
+        "yes": {
+            "statement": "Yes. Collective data should serve collective good.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Ownership of self includes ownership of data.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "If a social movement begins as peaceful but later turns disruptive, should its original demands still be honored?",
+        "yes": {
+            "statement": "Yes. Causes should not be invalidated by chaos.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Methods define legitimacy, not intentions.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should public outrage alone be sufficient grounds for removing someone from office or public life?",
+        "yes": {
+            "statement": "Yes. Trust, once lost, cannot be legislated back.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Mob sentiment is not due process.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If national security demands secrecy, should citizens accept not knowing the full truth?",
+        "yes": {
+            "statement": "Yes. Safety sometimes requires ignorance.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Power without transparency invites abuse.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should economic inequality be tolerated if absolute poverty is significantly reduced?",
+        "yes": {
+            "statement": "Yes. Lifting the floor matters more than flattening the ceiling.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Inequality reshapes power, not just income.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "If a law is unjust but widely obeyed, is breaking it still morally valid?",
+        "yes": {
+            "statement": "Yes. Obedience does not equal justice.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "no": {
+            "statement": "No. Order collapses when laws become optional.",
+            "persona": "THE SUPREMO"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should emotional harm be treated with the same seriousness as physical harm under the law?",
+        "yes": {
+            "statement": "Yes. Trauma leaves scars no less real.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Law needs measurable boundaries.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If technology enables citizens to bypass the state entirely, should the state restrict it?",
+        "yes": {
+            "statement": "Yes. Authority must remain centralized to function.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. The state exists to serve, not trap.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should future generations have legal representation in today’s policy decisions?",
+        "yes": {
+            "statement": "Yes. The unborn still bear the consequences.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Governance cannot answer to ghosts.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "If a leader delivers results but undermines institutions, should they be tolerated?",
+        "yes": {
+            "statement": "Yes. Institutions exist to enable outcomes.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Destroying the system for success is failure.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should public morality be shaped by law or should law merely reflect existing morality?",
+        "yes": {
+            "statement": "Yes. Law must lead when society hesitates.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Imposed morality breeds silent rebellion.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "If efficiency demands reducing empathy in governance, should empathy be sacrificed?",
+        "yes": {
+            "statement": "Yes. Systems work best without emotion.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Governance without empathy becomes machinery.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "none"
+    },
+    {
+        "question": "Should loyalty to the nation outweigh loyalty to personal conscience?",
+        "yes": {
+            "statement": "Yes. Nations survive when individuals yield.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Conscience is the last line of defense.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If people knowingly accept an unfair system because it is predictable, should reform still be forced?",
+        "yes": {
+            "statement": "Yes. Comfort should not protect injustice.",
+            "persona": "THE IDEALIST"
+        },
+        "no": {
+            "statement": "No. Stability is a form of consent.",
+            "persona": "THE CAPITALIST"
+        },
+        "caution": "single"
+    },
+    {
+        "question": "Should governments prioritize being feared over being trusted during crises?",
+        "yes": {
+            "statement": "Yes. Fear enforces compliance faster than trust.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Fear obeys briefly; trust endures.",
+            "persona": "THE IDEALIST"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "If truth destabilizes society, should it be delayed?",
+        "yes": {
+            "statement": "Yes. Timing matters more than purity.",
+            "persona": "THE CAPITALIST"
+        },
+        "no": {
+            "statement": "No. Delayed truth is engineered ignorance.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "double"
+    },
+    {
+        "question": "Should democracy protect people from their own long-term bad choices?",
+        "yes": {
+            "statement": "Yes. Freedom without foresight is self-harm.",
+            "persona": "THE SUPREMO"
+        },
+        "no": {
+            "statement": "No. Autonomy includes the right to fail.",
+            "persona": "THE SHOWSTOPPER"
+        },
+        "caution": "single"
+    }
+]

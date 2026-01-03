@@ -1,0 +1,1298 @@
+[
+  {
+    "question": "Should India implement 'One Nation, One Election'?",
+    "yes": {
+      "statement": "Yes. Why pause the country's development every 6 months just to press a button?",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. I’d miss the constant carnival of rallies, roadshows, and free biryani.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the government have the power to label independent YouTubers as 'broadcasters'?",
+    "yes": {
+      "statement": "Yes. Misinformation shouldn't get a free pass just because it's shot in 4K.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Let the creators cook. Content is the new oil, don't spill it.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should non-Muslims be appointed to Waqf Boards?",
+    "yes": {
+      "statement": "Yes. Secularism means everyone gets a seat at everyone else's table.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. You wouldn't ask a vegan to manage a steakhouse.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the 'Creamy Layer' exclusion be applied to SC/ST reservations?",
+    "yes": {
+      "statement": "Yes. A doctor's son shouldn't compete with a labourer's son for the same seat.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Social stigma doesn't check your bank balance before attacking.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should 'Bulldozer Justice' be an acceptable tool for law enforcement?",
+    "yes": {
+      "statement": "Yes. Instant justice is the only language criminals understand.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We are a Republic, not a demolition company.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should the country conduct a nationwide Caste Census?",
+    "yes": {
+      "statement": "Yes. You can't fix the system if you don't know who is broken.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Why divide the market into micro-segments when we can sell to 'India'?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should student unions be banned in university campuses?",
+    "yes": {
+      "statement": "Yes. Universities are for degrees, not for practicing anarchy.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Where else will we find fresh meat for the prime time debates?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the government provide cash handouts (Ladli Behna/Mahalakshmi) to women?",
+    "yes": {
+      "statement": "Yes. If billionaires get tax holidays, homemakers deserve a salary.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Teach them to fish, don't bankrupt the pond.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should deepfake technology be completely banned?",
+    "yes": {
+      "statement": "Yes. We can't let algorithms decide what is real and what is not.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Reality is boring. Let the people enjoy the entertainment.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India rename itself to 'Bharat' in all official contexts?",
+    "yes": {
+      "statement": "Yes. Shedding colonial baggage is the first step to greatness.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Rebranding costs billions. Let's stick to the legacy brand.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should there be a specific law against 'Paper Leaks' with heavy jail terms?",
+    "yes": {
+      "statement": "Yes. Cheating on an exam is treason against the nation's future.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If the system leaks, fix the pipes, don't just jail the plumber.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should lateral entry (hiring experts directly) be allowed in bureaucracy?",
+    "yes": {
+      "statement": "Yes. We need CEOs running the country, not file-pushers.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It's a backdoor to bypass the reservation queue.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should Live-in relationships be registered with the police (as per Uttarakhand UCC)?",
+    "yes": {
+      "statement": "Yes. Freedom needs a paper trail to ensure safety.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My love life does not require a NOC from the constable.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should electoral bonds be brought back to fund political parties?",
+    "yes": {
+      "statement": "Yes. Money buys power. Let's not pretend we run on good wishes.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Democracy shouldn't have a 'Pay to Win' subscription model.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the government regulate the price of movie tickets?",
+    "yes": {
+      "statement": "Yes. Entertainment is a right, not a luxury for the elite.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If you want cheap seats, wait for it to come on TV.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should internet shutdowns be used to control civil unrest?",
+    "yes": {
+      "statement": "Yes. Sometimes you have to pull the plug to stop the fire.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. You can't cure a headache by decapitation.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should India prioritize space missions (Chandrayaan) over poverty alleviation?",
+    "yes": {
+      "statement": "Yes. We aim for the stars while they look at the gutter.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. You can't eat moon rocks.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should marital rape be criminalized?",
+    "yes": {
+      "statement": "Yes. Consent doesn't expire just because you signed a marriage certificate.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. The government has no business entering the bedroom.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should gig workers (Zomato/Swiggy) be treated as full-time employees?",
+    "yes": {
+      "statement": "Yes. Algorithms shouldn't be allowed to exploit humans.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Flexibility is the future. Don't burden innovation with PF and gratuity.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should politicians be barred from holding posts in sports bodies (BCCI/WFI)?",
+    "yes": {
+      "statement": "Yes. Let the athletes run the game, not the power brokers.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Sports needs power and influence to survive. Who else brings the sponsors?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the government have a 'Fact Check Unit' to flag fake news about itself?",
+    "yes": {
+      "statement": "Yes. The state must protect the truth from malicious narratives.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Asking the liar to grade his own test is a bad idea.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should temples be freed from government control?",
+    "yes": {
+      "statement": "Yes. Bureaucrats cannot manage faith. Return the gold to the gods.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's a revenue stream. Why should the state let go of a cash cow?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the Agniveer (short-term military service) scheme continue?",
+    "yes": {
+      "statement": "Yes. We need a lean, mean, youthful fighting machine. Plus, it saves pension money.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Soldiers are not seasonal workers. You can't rent patriotism.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India enforce a strict two-child policy?",
+    "yes": {
+      "statement": "Yes. We are bursting at the seams. Quality over quantity.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. The state shouldn't dictate the size of my family dinner.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should 70-hour work weeks be normalized for young professionals?",
+    "yes": {
+      "statement": "Yes. Sleep is for the weak. Nation-building requires sweat.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. We are humans, not batteries for the corporate machine.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should convicted politicians be banned from contesting elections for life?",
+    "yes": {
+      "statement": "Yes. Parliament is a temple, not a rehabilitation center.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. The people are the ultimate judge. If they want a gangster, let them have him.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should coaching centers be banned for students under 16?",
+    "yes": {
+      "statement": "Yes. Let children have a childhood before the rat race begins.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. It's a free market. If parents want to buy success, let them.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India allow 100% FDI in the space sector?",
+    "yes": {
+      "statement": "Yes. Let Elon Musk compete with ISRO. May the best rocket win.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Space is strategic. We can't outsource our sovereignty.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should stray dogs be culled if they pose a threat to public safety?",
+    "yes": {
+      "statement": "Yes. Humans built the city. The city belongs to us.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It’s their planet too. We are just the ones paving over it.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should south Indian states get more seats in parliament despite lower population growth?",
+    "yes": {
+      "statement": "Yes. You shouldn't be punished for actually listening to family planning advice.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Democracy is about people, not land. More heads, more votes.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should Minimum Support Price (MSP) be made a legal guarantee for farmers?",
+    "yes": {
+      "statement": "Yes. The hands that feed the nation shouldn't have to beg for a living wage.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Price controls are economic suicide. Let the market decide the value of a potato.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should India abandon the 'First Past the Post' electoral system for Proportional Representation?",
+    "yes": {
+      "statement": "Yes. A party with 30% votes shouldn't rule 100% of the people.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We need stable governments, not a coalition of chaos and confusion.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the state government have the power to appoint Vice-Chancellors instead of the Governor?",
+    "yes": {
+      "statement": "Yes. An elected government shouldn't be held hostage by a ceremonial figurehead.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Universities need federal oversight, not local political meddling.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should India bid to host the 2036 Olympics?",
+    "yes": {
+      "statement": "Yes. Imagine the opening ceremony! The lights, the cameras, the global envy!",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Let's fix our sewage systems before we invite the world over for a run.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should non-vegetarian food be banned in pilgrimage cities (like Haridwar/Ayodhya)?",
+    "yes": {
+      "statement": "Yes. Holiness requires purity. Keep the meat off the holy streets.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My diet is not your jurisdiction. Freedom tastes like chicken.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should the government regulate 'Finfluencers' (Financial Influencers)?",
+    "yes": {
+      "statement": "Yes. A 20-year-old with a ring light shouldn't be giving stock tips.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. If people are dumb enough to take financial advice from a reel, they deserve the loss.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the Uniform Civil Code (UCC) be implemented nationwide?",
+    "yes": {
+      "statement": "Yes. One Nation, One Law. Why should religion dictate marriage and inheritance?",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Diversity is our strength. Don't paint a rainbow in black and white.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should AI be taxed to fund a Universal Basic Income for those who lose jobs?",
+    "yes": {
+      "statement": "Yes. If robots take the paychecks, they should pay the taxes.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't punish efficiency. Adapt or perish, that is the law of nature.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should states with higher GDP contribute more tax but receive less funding?",
+    "yes": {
+      "statement": "Yes. The strong must carry the weak. That is the price of a Union.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Why work hard if the rewards are shipped off to someone who didn't?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should politicians be allowed to campaign based on caste?",
+    "yes": {
+      "statement": "Yes. It's the reality of India. Why pretend we are post-racial?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Identity politics is a poison that keeps us divided forever.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the Indian railways prioritize Vande Bharat trains over General sleepers?",
+    "yes": {
+      "statement": "Yes. We need world-class speed and comfort for those who can pay.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. The poor are travelling in cattle class while the rich get selfies.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should content on OTT platforms (Netflix/Prime) be censored for 'Cultural Sensitivity'?",
+    "yes": {
+      "statement": "Yes. We cannot allow foreign degeneracy to corrupt our living rooms.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. If you don't like it, don't watch it. The remote is in your hand.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should EVMs (Electronic Voting Machines) be replaced with paper ballots?",
+    "yes": {
+      "statement": "Yes. Technology can be hacked. Paper leaves a trail.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Do we want to count votes for three weeks? Welcome to the 21st century.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the government have access to encrypted WhatsApp messages?",
+    "yes": {
+      "statement": "Yes. Privacy cannot be a shield for terrorists and criminals.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My memes and my secrets are none of the Home Ministry's business.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should India stop playing cricket with Pakistan in ICC tournaments?",
+    "yes": {
+      "statement": "Yes. You don't play games with the enemy while soldiers are dying.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's the biggest money-maker in sport. Cash over conflict.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should English be replaced by local languages in higher judiciary and courts?",
+    "yes": {
+      "statement": "Yes. Justice should be understood by the common man, not just the elite.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Law requires precision. Let's not get lost in translation.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should celebrities be held liable for misleading ads?",
+    "yes": {
+      "statement": "Yes. If you sell poison with a smile, you go to jail.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. They are actors, not scientists. Caveat Emptor—Buyer Beware.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should women be granted menstrual leave in the corporate sector?",
+    "yes": {
+      "statement": "Yes. Biology is not a choice. Workplaces must adapt to humans.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. No one will hire women if they come with extra holidays attached.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the government ban 'Freebies' (free electricity/bus rides) before elections?",
+    "yes": {
+      "statement": "Yes. You can't buy votes with the taxpayer's own money.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. In a poor country, welfare is the only thing keeping people alive.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India intervene militarily in neighborhood conflicts (like Bangladesh/Myanmar)?",
+    "yes": {
+      "statement": "Yes. Big Brother must keep the backyard clean.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. War is expensive. Let's sell them weapons instead.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should protestors be made to pay for damage to public property?",
+    "yes": {
+      "statement": "Yes. You break it, you buy it. Democracy is not a license to riot.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Property can be replaced, voices cannot. Dissent is messy.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should medical education be taught in Hindi/regional languages?",
+    "yes": {
+      "statement": "Yes. Why should a doctor need to know Shakespeare to cure a fever?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Medicine is global. Don't isolate our doctors from the world.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should there be a wealth tax on the super-rich?",
+    "yes": {
+      "statement": "Yes. No one 'earns' a billion dollars. They extract it.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Scare the rich away and see who builds your factories.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the defamation law be decriminalized?",
+    "yes": {
+      "statement": "Yes. Hurt feelings shouldn't lead to handcuffs.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Reputation is all a man has. Protect it with the sword.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should India accept foreign aid during natural disasters?",
+    "yes": {
+      "statement": "Yes. Pride doesn't save lives. Help is help.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We are a superpower. We do not beg.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should gaming/esports be recognized as a legitimate sport?",
+    "yes": {
+      "statement": "Yes. It fills stadiums and bank accounts. That's a sport to me.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Sitting in a chair is not athletics. Go touch grass.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should heavy industries be allowed in eco-sensitive zones (like Joshi Math/Wayanad)?",
+    "yes": {
+      "statement": "Yes. You can't hug trees and expect the GDP to grow.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. When the mountain collapses, the stock market won't save you.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should startup losses be subsidized by the government?",
+    "yes": {
+      "statement": "Yes. Innovation is risky. The state must cushion the fall.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. This is capitalism, not charity for tech bros.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should sedition laws remain in the penal code?",
+    "yes": {
+      "statement": "Yes. The state must have the teeth to bite those who bark at it.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Criticism of the government is patriotism, not treason.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should there be a cap on the number of terms for a Prime Minister?",
+    "yes": {
+      "statement": "Yes. Power corrupts. Indefinite power corrupts indefinitely.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If the people love me, who are you to stop me?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India aggressively push for a permanent seat at the UN Security Council?",
+    "yes": {
+      "statement": "Yes. We are one-fifth of humanity. We demand our chair.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's a dying club. Let's build our own table.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should spiritual gurus be allowed to market 'cure-all' medicines?",
+    "yes": {
+      "statement": "Yes. Faith heals more than chemistry ever will.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Science is not a matter of opinion or belief.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should firecrackers be banned nationwide during Diwali?",
+    "yes": {
+      "statement": "Yes. Tradition shouldn't mean choking to death.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't let the woke brigade steal our festivals.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should crypto-currency be completely legalized and regulated?",
+    "yes": {
+      "statement": "Yes. It's the future of money. Don't get left in the past.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It's gambling disguised as technology. Shut it down.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should political parties be brought under the RTI (Right to Information) Act?",
+    "yes": {
+      "statement": "Yes. If you serve the public, you must be open to the public.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Strategy requires secrecy. We can't show our hand to the opponents.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should agricultural income be taxed for rich farmers?",
+    "yes": {
+      "statement": "Yes. A rich farmer is just a businessman with a tractor. Tax them.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Do you want them parking their tractors on the Red Fort again?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the 'Old Pension Scheme' (OPS) be restored for government employees?",
+    "yes": {
+      "statement": "Yes. A government servant deserves a secure retirement, not market risks.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Paying people for 30 years of not working will bankrupt the state.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should same-sex marriage be fully legalized?",
+    "yes": {
+      "statement": "Yes. Love is love. The law should not be a third wheel.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Marriage is a sacred institution for procreation, not recreation.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should the government have a say in appointing judges (ending the Collegium)?",
+    "yes": {
+      "statement": "Yes. Unelected judges appointing other judges is an old boys' club.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We need judges who can say 'No' to the Prime Minister.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should private sector jobs have caste-based reservation?",
+    "yes": {
+      "statement": "Yes. Corporate boardrooms look too much like exclusive gymkhana clubs.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Merit is the only currency that matters in business.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should India ban the export of wheat/rice to protect domestic prices?",
+    "yes": {
+      "statement": "Yes. Feed our own people first. The world can wait.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. A contract is a contract. We can't be an unreliable trading partner.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should UPI transactions be charged a transaction fee?",
+    "yes": {
+      "statement": "Yes. Server costs aren't free. Convenience has a price.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Don't kill the goose that laid the digital egg.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should Hindi be made mandatory in all non-Hindi speaking states?",
+    "yes": {
+      "statement": "Yes. One nation, one language. Let's understand each other.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. I don't need a translator to love my country.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should prostitution/sex work be completely legalized and regulated?",
+    "yes": {
+      "statement": "Yes. Protecting the world's oldest industry will reduce crime and disease.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Women cannot be allowed to sell their bodies for sin.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should the government bulldoze the homes of accused criminals before trial?",
+    "yes": {
+      "statement": "Yes. The fear of the rubble is greater than the fear of the law.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. This is a democracy, not a construction site accident.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should India allow dual citizenship?",
+    "yes": {
+      "statement": "Yes. Our best talent is leaving. Let's keep them connected to the motherland.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. You can't ride two horses with one ass.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should voters have the 'Right to Recall' their MP if they underperform?",
+    "yes": {
+      "statement": "Yes. If I can return a defective toaster, I should be able to return a defective leader.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Elections are expensive. We can't have one every weekend.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should traditional animal sports (Jallikattu/Kambala) be banned?",
+    "yes": {
+      "statement": "Yes. Culture is no excuse for cruelty.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. City folks who eat burgers shouldn't lecture farmers on animal love.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should Public Sector Banks be privatized?",
+    "yes": {
+      "statement": "Yes. Government has no business being in the banking business.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Who will give loans to the poor farmer if the bank only chases profit?",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should foreign universities be allowed to set up campuses in India?",
+    "yes": {
+      "statement": "Yes. I want a Harvard degree without the Harvard price tag.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. They will teach our children to question our own values.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should Aadhar linkage be mandatory for voter ID cards?",
+    "yes": {
+      "statement": "Yes. One person, one vote. Eliminate the bogus voters.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My voting choice is not data for the surveillance state.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should farmers be fined for burning stubble (causing pollution)?",
+    "yes": {
+      "statement": "Yes. Your harvest cannot be my lung cancer.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. They are feeding you. Provide a machine, don't send a challan.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the death penalty be abolished?",
+    "yes": {
+      "statement": "Yes. An eye for an eye makes the whole world blind.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Some monsters do not deserve to breathe our air.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should India transition to a 4-day work week?",
+    "yes": {
+      "statement": "Yes. Rested workers are productive workers.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We are a developing nation. We can't afford a long weekend.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should alcohol be banned nationwide (Gujarat/Bihar model)?",
+    "yes": {
+      "statement": "Yes. Alcohol destroys families. Shut the tap.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Prohibition just creates a mafia. Let the tax money flow.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should cities and roads with colonial/Islamic names be renamed?",
+    "yes": {
+      "statement": "Yes. Why honor the invaders? Reclaim our history.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Changing the signboard doesn't fix the pothole on the road.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the 'Right to Health' force private hospitals to treat emergencies for free?",
+    "yes": {
+      "statement": "Yes. A credit card shouldn't determine if you live or die.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Doctors have bills to pay too. Who compensates the hospital?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India adopt a 'No First Use' nuclear policy indefinitely?",
+    "yes": {
+      "statement": "Yes. We are the land of Gandhi. We don't start fires.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If the enemy pushes a button, I want to push mine faster.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should petrol and diesel cars be banned by 2035?",
+    "yes": {
+      "statement": "Yes. The future is electric. The present is suffocating.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Let the market shift when the technology is ready, not by force.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should foreign funding for NGOs be blocked?",
+    "yes": {
+      "statement": "Yes. They are foreign agents trying to stall our development.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. They do the work the government fails to do.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should online betting and gambling apps be legal?",
+    "yes": {
+      "statement": "Yes. People will bet anyway. Legalize it and tax the addiction.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It ruins the youth. Skill gaming is just a fancy word for a trap.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should surrogacy be allowed for single men and LGBTQ couples?",
+    "yes": {
+      "statement": "Yes. Parenthood is a right, not a privilege for the married.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. A child needs a mother and a father, not a contract.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should Euthanasia (Right to Die) be fully legalized?",
+    "yes": {
+      "statement": "Yes. My life, my exit. Dignity until the end.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Life is a gift from God. You can't return it.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should there be a tax on high-sugar/junk foods?",
+    "yes": {
+      "statement": "Yes. Make them pay for the diabetes epidemic.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't nanny me. If I want to eat trash, that's my liberty.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should mandatory military training be introduced for youth?",
+    "yes": {
+      "statement": "Yes. A little discipline never hurt anyone. It builds character.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We need engineers and artists, not a militia.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should the word 'Secular' be removed from the Preamble?",
+    "yes": {
+      "statement": "Yes. It was added during the Emergency. Let's correct the mistake.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It is the soul of the constitution. Don't touch it.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should Halal certification be banned for non-meat products?",
+    "yes": {
+      "statement": "Yes. Why does my lipstick need religious approval?",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It opens up global markets. It's just a business standard.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should political defectors be barred from contesting for 5 years?",
+    "yes": {
+      "statement": "Yes. Stop the horse-trading. Politics isn't the IPL.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Ideologies change. People change. Let them switch teams.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should India stop water sharing with Pakistan (Indus Water Treaty)?",
+    "yes": {
+      "statement": "Yes. Blood and water cannot flow together.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Using thirst as a weapon is a war crime.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should industrial hemp/cannabis cultivation be legalized?",
+    "yes": {
+      "statement": "Yes. It's a cash crop. Textiles, medicine, paper—it's green gold.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It's a gateway drug. We won't become a nation of stoners.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should politicians be given VIP treatment at temples?",
+    "yes": {
+      "statement": "Yes. They are the kings of the modern era. Protocol matters.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. In the house of God, everyone stands in the same line.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should evolution be removed from school textbooks below Class 10?",
+    "yes": {
+      "statement": "Yes. Our ancient texts have all the answers we need.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Science doesn't care about your beliefs. Don't dumb down the kids.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single"
+  },
+  {
+    "question": "Should the internet be shut down during government exams to prevent cheating?",
+    "yes": {
+      "statement": "Yes. Better offline than unfair.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. You don't burn the library because someone whispered.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should women be allowed free entry to all monuments/museums?",
+    "yes": {
+      "statement": "Yes. They have been written out of history; let them at least see it for free.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Equality means paying the same ticket price.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should strict population control laws (2-child policy) be enforced?",
+    "yes": {
+      "statement": "Yes. We are eating up our resources. Stop the explosion.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. The state belongs in the parliament, not the womb.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should India adopt a 'Digital Rupee' and phase out physical cash entirely?",
+    "yes": {
+      "statement": "Yes. Cash is for criminals. Digital is transparent.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. I want money I can hold, hide, and put under my mattress.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  },
+  {
+    "question": "Should reservations be extended to Dalit Christians and Dalit Muslims?",
+    "yes": {
+      "statement": "Yes. Caste discrimination doesn't disappear just because you changed your god.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. These religions claim to have no caste. Let them prove it.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double"
+  },
+  {
+    "question": "Should exit polls be banned until the final vote is counted?",
+    "yes": {
+      "statement": "Yes. They influence the voter rather than reflecting them.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We need the drama, the suspense, and the TV ratings!",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none"
+  }
+]

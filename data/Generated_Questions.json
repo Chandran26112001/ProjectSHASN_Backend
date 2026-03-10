@@ -1,0 +1,15 @@
+[
+  {
+    "caution": "double",
+    "deck": "gpt",
+    "no": {
+      "persona": "THE IDEALIST",
+      "statement": "Handing cash to the masses liberates human potential from wage slavery, dismantling the brutal capitalist machine that starves families for profit."
+    },
+    "question": "Enact Universal Basic Income, dooming millions of lazy welfare leeches to a lifetime of drug-fueled degeneracy while bankrupting the nation to fund their reckless breeding sprees?",
+    "yes": {
+      "persona": "THE CAPITALIST",
+      "statement": "UBI forces the idle scum to confront their uselessness, unleashing market discipline to weed out parasites and ignite real innovation."
+    }
+  }
+]

@@ -1,0 +1,12 @@
+# Binaries
+backend
+ProjectSHASN_Backend
+*.db
+*.db.wal
+
+# Environment variables
+.env
+
+# Go dependencies
+vendor/
+go.sum

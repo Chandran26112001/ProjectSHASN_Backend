@@ -19,9 +19,22 @@ import (
 
 var db *sql.DB
 
+// genres is the master list of valid genre slugs, seeded into DB on init
+var genres = []string{
+	"politics",
+	"economy",
+	"social",
+	"gender",
+	"media",
+	"technology",
+	"environment",
+	"foreign_policy",
+	"philosophy",
+}
+
 type Card struct {
 	ID       int             `json:"_id"`
-	Deck     string          `json:"deck"`
+	Genre    string          `json:"genre"`
 	Question string          `json:"question"`
 	Yes      json.RawMessage `json:"yes"`
 	No       json.RawMessage `json:"no"`
@@ -31,7 +44,7 @@ type Card struct {
 type GenerateReq struct {
 	Topic     string `json:"topic" binding:"required"`
 	Brutality int    `json:"brutality" binding:"required,min=1,max=3"`
-	Deck      string `json:"deck" binding:"required"`
+	Genre     string `json:"genre" binding:"required"`
 }
 
 func main() {
@@ -62,6 +75,7 @@ func main() {
 		c.Next()
 	})
 
+	r.GET("/genres", getGenres)
 	r.GET("/random", getRandomCard)
 	r.GET("/next", getNextCard)
 	r.POST("/generate", generateCard)
@@ -75,11 +89,14 @@ func initDB() {
 		`CREATE SEQUENCE IF NOT EXISTS seq_card_id START 1`,
 		`CREATE TABLE IF NOT EXISTS cards (
 			id INTEGER DEFAULT nextval('seq_card_id') PRIMARY KEY,
-			deck VARCHAR,
+			genre VARCHAR,
 			question VARCHAR,
 			yes JSON,
 			no JSON,
 			caution VARCHAR
+		)`,
+		`CREATE TABLE IF NOT EXISTS genres (
+			slug VARCHAR PRIMARY KEY
 		)`,
 	}
 
@@ -89,7 +106,15 @@ func initDB() {
 		}
 	}
 
-	// Check if empty
+	// Seed genres master table
+	for _, g := range genres {
+		_, err := db.Exec(`INSERT INTO genres (slug) VALUES (?) ON CONFLICT DO NOTHING`, g)
+		if err != nil {
+			log.Printf("Warning: could not insert genre '%s': %v", g, err)
+		}
+	}
+
+	// Check if cards table is empty
 	var count int
 	err := db.QueryRow("SELECT count(*) FROM cards").Scan(&count)
 	if err != nil {
@@ -97,60 +122,118 @@ func initDB() {
 	}
 
 	if count == 0 {
-		log.Println("Database is empty. Hydrating from JSON files...")
-		
-		// Load Gemini
-		_, err = db.Exec(`
-			INSERT INTO cards (deck, question, yes, no, caution) 
-			SELECT 'gemini', question, to_json(yes), to_json(no), caution 
-			FROM read_json_auto('data/Gemini_Questions.json')
-		`)
-		if err != nil {
-			log.Println("Warning: Could not load Gemini_Questions.json:", err)
-		}
-
-		// Load GPT
-		_, err = db.Exec(`
-			INSERT INTO cards (deck, question, yes, no, caution) 
-			SELECT 'gpt', question, to_json(yes), to_json(no), caution 
-			FROM read_json_auto('data/GPT_Questions.json')
-		`)
-		if err != nil {
-			log.Println("Warning: Could not load GPT_Questions.json:", err)
-		}
-		
-		// Attempt to load previously generated cards
-		if _, err := os.Stat("data/Generated_Questions.json"); err == nil {
-			_, err = db.Exec(`
-				INSERT INTO cards (deck, question, yes, no, caution) 
-				SELECT deck, question, to_json(yes), to_json(no), caution 
-				FROM read_json_auto('data/Generated_Questions.json')
-			`)
-			if err != nil {
-				log.Println("Warning: Could not load Generated_Questions.json:", err)
-			}
-		}
-
+		log.Println("Database is empty. Hydrating from genre JSON files...")
+		hydrateGenreFiles()
 		log.Println("Hydration complete.")
 	} else {
 		log.Printf("DuckDB already contains %d cards. Skipping hydration.\n", count)
 	}
+
+	// Self-heal: register any genre found in cards that isn't in the genres table yet.
+	// This covers dynamically created genres that survive a DB wipe via Generated_Questions.json.
+	if _, err := db.Exec(`
+		INSERT INTO genres (slug)
+		SELECT DISTINCT genre FROM cards WHERE genre IS NOT NULL
+		ON CONFLICT DO NOTHING
+	`); err != nil {
+		log.Printf("Warning: could not self-heal genres table: %v", err)
+	} else {
+		log.Println("Genres table self-healed from cards data.")
+	}
+}
+
+// hydrateGenreFiles loads all genre_*.json files from the data/ directory into DuckDB.
+// Each JSON file is a flat array of card objects that already include a "genre" field.
+func hydrateGenreFiles() {
+	genreFiles := []string{
+		"data/genre_politics.json",
+		"data/genre_economy.json",
+		"data/genre_social.json",
+		"data/genre_gender.json",
+		"data/genre_media.json",
+		"data/genre_technology.json",
+		"data/genre_environment.json",
+		"data/genre_foreign_policy.json",
+		"data/genre_philosophy.json",
+	}
+
+	for _, f := range genreFiles {
+		if _, err := os.Stat(f); os.IsNotExist(err) {
+			log.Printf("Warning: genre file not found, skipping: %s", f)
+			continue
+		}
+		_, err := db.Exec(fmt.Sprintf(`
+			INSERT INTO cards (genre, question, yes, no, caution)
+			SELECT genre, question, to_json(yes), to_json(no), caution
+			FROM read_json_auto('%s')
+		`, f))
+		if err != nil {
+			log.Printf("Warning: could not load %s: %v", f, err)
+		} else {
+			log.Printf("Loaded: %s", f)
+		}
+	}
+
+	// Also load previously AI-generated cards if the file exists and is non-empty
+	generatedFile := "data/Generated_Questions.json"
+	if fi, err := os.Stat(generatedFile); err == nil && fi.Size() > 2 {
+		// Size > 2 means it's more than just "[]" (an empty JSON array)
+		_, err = db.Exec(fmt.Sprintf(`
+			INSERT INTO cards (genre, question, yes, no, caution)
+			SELECT genre, question, to_json(yes), to_json(no), caution
+			FROM read_json_auto('%s')
+		`, generatedFile))
+		if err != nil {
+			log.Printf("Warning: could not load %s: %v", generatedFile, err)
+		} else {
+			log.Printf("Loaded: %s", generatedFile)
+		}
+	}
+}
+
+// isValidGenre checks if a genre slug exists in our master table
+func isValidGenre(genre string) bool {
+	var count int
+	db.QueryRow("SELECT count(*) FROM genres WHERE slug = ?", genre).Scan(&count)
+	return count > 0
+}
+
+func getGenres(c *gin.Context) {
+	rows, err := db.Query("SELECT slug FROM genres ORDER BY slug ASC")
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to fetch genres"})
+		return
+	}
+	defer rows.Close()
+
+	result := []string{}
+	for rows.Next() {
+		var slug string
+		if err := rows.Scan(&slug); err == nil {
+			result = append(result, slug)
+		}
+	}
+	c.JSON(http.StatusOK, result)
 }
 
 func getRandomCard(c *gin.Context) {
-	deck := c.Query("deck")
-	if deck != "gpt" && deck != "gemini" {
-		deck = "gemini" // default fallback
+	genre := c.Query("genre")
+	if genre == "" {
+		genre = "politics" // default fallback
+	}
+	if !isValidGenre(genre) {
+		c.JSON(http.StatusBadRequest, gin.H{"error": fmt.Sprintf("Invalid genre '%s'. Call /genres for the full list.", genre)})
+		return
 	}
 
 	var card Card
 	var yesStr, noStr string
 
-	query := `SELECT id, deck, question, yes::VARCHAR, no::VARCHAR, caution FROM cards WHERE deck = ? ORDER BY RANDOM() LIMIT 1`
-	err := db.QueryRow(query, deck).Scan(&card.ID, &card.Deck, &card.Question, &yesStr, &noStr, &card.Caution)
-	
+	query := `SELECT id, genre, question, yes::VARCHAR, no::VARCHAR, caution FROM cards WHERE genre = ? ORDER BY RANDOM() LIMIT 1`
+	err := db.QueryRow(query, genre).Scan(&card.ID, &card.Genre, &card.Question, &yesStr, &noStr, &card.Caution)
+
 	if err == sql.ErrNoRows {
-		c.JSON(http.StatusNotFound, gin.H{"error": "No cards found for this deck"})
+		c.JSON(http.StatusNotFound, gin.H{"error": "No cards found for this genre"})
 		return
 	} else if err != nil {
 		log.Println("DB Query Error:", err)
@@ -165,12 +248,16 @@ func getRandomCard(c *gin.Context) {
 }
 
 func getNextCard(c *gin.Context) {
-	deck := c.Query("deck")
-	if deck != "gpt" && deck != "gemini" {
-		deck = "gemini"
+	genre := c.Query("genre")
+	if genre == "" {
+		genre = "politics"
 	}
+	if !isValidGenre(genre) {
+		c.JSON(http.StatusBadRequest, gin.H{"error": fmt.Sprintf("Invalid genre '%s'. Call /genres for the full list.", genre)})
+		return
+	}
+
 	currentIDStr := c.Query("current_id")
-	
 	if currentIDStr == "" {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "current_id is required"})
 		return
@@ -185,19 +272,19 @@ func getNextCard(c *gin.Context) {
 	var yesStr, noStr string
 
 	// Try to get next id
-	query := `SELECT id, deck, question, yes::VARCHAR, no::VARCHAR, caution FROM cards WHERE deck = ? AND id > ? ORDER BY id ASC LIMIT 1`
-	err = db.QueryRow(query, deck, currentID).Scan(&card.ID, &card.Deck, &card.Question, &yesStr, &noStr, &card.Caution)
-	
+	query := `SELECT id, genre, question, yes::VARCHAR, no::VARCHAR, caution FROM cards WHERE genre = ? AND id > ? ORDER BY id ASC LIMIT 1`
+	err = db.QueryRow(query, genre, currentID).Scan(&card.ID, &card.Genre, &card.Question, &yesStr, &noStr, &card.Caution)
+
 	if err == sql.ErrNoRows {
-		// Wrap around
-		query = `SELECT id, deck, question, yes::VARCHAR, no::VARCHAR, caution FROM cards WHERE deck = ? ORDER BY id ASC LIMIT 1`
-		err = db.QueryRow(query, deck).Scan(&card.ID, &card.Deck, &card.Question, &yesStr, &noStr, &card.Caution)
+		// Wrap around to beginning
+		query = `SELECT id, genre, question, yes::VARCHAR, no::VARCHAR, caution FROM cards WHERE genre = ? ORDER BY id ASC LIMIT 1`
+		err = db.QueryRow(query, genre).Scan(&card.ID, &card.Genre, &card.Question, &yesStr, &noStr, &card.Caution)
 		if err == sql.ErrNoRows {
-			c.JSON(http.StatusNotFound, gin.H{"error": "No cards found in deck"})
+			c.JSON(http.StatusNotFound, gin.H{"error": "No cards found in genre"})
 			return
 		}
 	}
-	
+
 	if err != nil {
 		log.Println("DB Query Error:", err)
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to fetch card"})
@@ -214,6 +301,12 @@ func generateCard(c *gin.Context) {
 	var req GenerateReq
 	if err := c.ShouldBindJSON(&req); err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+		return
+	}
+
+	// Auto-register genre if it doesn't exist yet (allows new genres on-the-fly)
+	if _, err := db.Exec(`INSERT INTO genres (slug) VALUES (?) ON CONFLICT DO NOTHING`, req.Genre); err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to register genre: " + err.Error()})
 		return
 	}
 
@@ -236,6 +329,7 @@ func generateCard(c *gin.Context) {
 
 	systemPrompt := fmt.Sprintf(`You are generating a dilemma card for a political strategy game.
 Topic: %s
+Genre/Theme: %s
 Brutality Level: %d
 Instruction: %s
 
@@ -255,7 +349,7 @@ Schema:
   "caution": "none" // or "single" or "double"
 }
 
-Allowed Personas: THE CAPITALIST, THE SUPREMO, THE IDEALIST, THE SHOWSTOPPER.`, req.Topic, req.Brutality, brutalityDesc)
+Allowed Personas: THE CAPITALIST, THE SUPREMO, THE IDEALIST, THE SHOWSTOPPER.`, req.Topic, req.Genre, req.Brutality, brutalityDesc)
 
 	// Build xAI Grok request
 	payload := map[string]interface{}{
@@ -333,21 +427,21 @@ Allowed Personas: THE CAPITALIST, THE SUPREMO, THE IDEALIST, THE SHOWSTOPPER.`, 
 	question := newCard["question"].(string)
 	caution := newCard["caution"].(string)
 
-	query := `INSERT INTO cards (deck, question, yes, no, caution) VALUES (?, ?, ?, ?, ?) RETURNING id`
+	query := `INSERT INTO cards (genre, question, yes, no, caution) VALUES (?, ?, ?, ?, ?) RETURNING id`
 	var newId int
-	err = db.QueryRow(query, req.Deck, question, string(yesBytes), string(noBytes), caution).Scan(&newId)
+	err = db.QueryRow(query, req.Genre, question, string(yesBytes), string(noBytes), caution).Scan(&newId)
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to save card to DB: " + err.Error()})
 		return
 	}
 
 	// Append to generated file for persistence across DB resets
-	persistGeneratedCard(req.Deck, newCard)
+	persistGeneratedCard(req.Genre, newCard)
 
 	// Return to client
 	returnCard := Card{
 		ID:       newId,
-		Deck:     req.Deck,
+		Genre:    req.Genre,
 		Question: question,
 		Yes:      yesBytes,
 		No:       noBytes,
@@ -357,12 +451,11 @@ Allowed Personas: THE CAPITALIST, THE SUPREMO, THE IDEALIST, THE SHOWSTOPPER.`, 
 	c.JSON(http.StatusOK, returnCard)
 }
 
-func persistGeneratedCard(deck string, card map[string]interface{}) {
-	card["deck"] = deck // Store deck physically in the JSON so bootscript knows
+func persistGeneratedCard(genre string, card map[string]interface{}) {
+	card["genre"] = genre // Store genre in the JSON for rehydration
 
-	// We simply load the array, append, and save
 	filePath := "data/Generated_Questions.json"
-	
+
 	var cards []map[string]interface{}
 	data, err := os.ReadFile(filePath)
 	if err == nil {
@@ -370,7 +463,7 @@ func persistGeneratedCard(deck string, card map[string]interface{}) {
 	}
 
 	cards = append(cards, card)
-	
+
 	newData, err := json.MarshalIndent(cards, "", "  ")
 	if err == nil {
 		os.WriteFile(filePath, newData, 0644)

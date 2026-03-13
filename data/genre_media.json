@@ -1,0 +1,249 @@
+[
+  {
+    "question": "Should deepfake technology be completely banned?",
+    "yes": {
+      "statement": "Yes. We can't let algorithms decide what is real and what is not.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Reality is boring. Let the people enjoy the entertainment.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should content on OTT platforms (Netflix/Prime) be censored for 'Cultural Sensitivity'?",
+    "yes": {
+      "statement": "Yes. We cannot allow foreign degeneracy to corrupt our living rooms.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. If you don't like it, don't watch it. The remote is in your hand.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should the government regulate 'Finfluencers' (Financial Influencers)?",
+    "yes": {
+      "statement": "Yes. A 20-year-old with a ring light shouldn't be giving stock tips.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. If people are dumb enough to take financial advice from a reel, they deserve the loss.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should gaming/esports be recognized as a legitimate sport?",
+    "yes": {
+      "statement": "Yes. It fills stadiums and bank accounts. That's a sport to me.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Sitting in a chair is not athletics. Go touch grass.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should celebrities be held liable for misleading ads?",
+    "yes": {
+      "statement": "Yes. If you sell poison with a smile, you go to jail.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. They are actors, not scientists. Caveat Emptor—Buyer Beware.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should the defamation law be decriminalized?",
+    "yes": {
+      "statement": "Yes. Hurt feelings shouldn't lead to handcuffs.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Reputation is all a man has. Protect it with the sword.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should journalists be required to publicly disclose funding sources and affiliations?",
+    "yes": {
+      "statement": "Yes. Transparency is the price of influence.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Power already knows who to silence.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should deepfake political content be criminalised even if satire is affected?",
+    "yes": {
+      "statement": "Yes. Democracy can't survive synthetic lies.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Truth doesn't need babysitters.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should political influencers be regulated like traditional media?",
+    "yes": {
+      "statement": "Yes. Reach without rules is propaganda.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Popularity isn't a broadcast license.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should social media companies be forced to share political algorithms with the government?",
+    "yes": {
+      "statement": "Yes. Hidden levers manipulate consent.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Transparency to power is a backdoor.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should online anonymity be restricted to curb abuse and misinformation?",
+    "yes": {
+      "statement": "Yes. Masks empower cruelty.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Anonymity protects the powerless.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should media trials be punishable even if they expose real wrongdoing?",
+    "yes": {
+      "statement": "Yes. Justice isn't a reality show.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Sunlight forces accountability.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should government advertising be banned in private media?",
+    "yes": {
+      "statement": "Yes. Public money shouldn't buy loyalty.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Outreach isn't propaganda by default.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "media"
+  },
+  {
+    "question": "Should India criminalise fake news even without proof of intent?",
+    "yes": {
+      "statement": "Yes. Damage matters more than motive.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Error isn't a crime.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should public servants be barred from social media opinions?",
+    "yes": {
+      "statement": "Yes. Authority needs restraint.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Silence breeds resentment.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should the state define what constitutes offensive art?",
+    "yes": {
+      "statement": "Yes. Expression has limits.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Art dies under approval.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "media"
+  },
+  {
+    "question": "Should social media boycotts be treated as economic sabotage?",
+    "yes": {
+      "statement": "Yes. Mob economics destroy livelihoods.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Consumers choose with wallets.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "media"
+  },
+  {
+    "question": "Should artists and filmmakers be held legally accountable if their work foreseeably triggers violence or unrest?",
+    "yes": {
+      "statement": "Yes. Expression without responsibility is reckless power.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Art reflects society; it does not command it.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "media"
+  },
+  {
+    "question": "Should this very question deck be regulated or censored if it is found to polarize society?",
+    "yes": {
+      "statement": "Yes. Social harmony outweighs unrestricted discourse.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. A democracy afraid of questions is already broken.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "media"
+  }
+]

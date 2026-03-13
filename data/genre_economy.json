@@ -1,0 +1,340 @@
+[
+  {
+    "question": "Should AI be taxed to fund a Universal Basic Income for those who lose jobs?",
+    "yes": {
+      "statement": "Yes. If robots take the paychecks, they should pay the taxes.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't punish efficiency. Adapt or perish, that is the law of nature.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should states with higher GDP contribute more tax but receive less funding?",
+    "yes": {
+      "statement": "Yes. The strong must carry the weak. That is the price of a Union.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Why work hard if the rewards are shipped off to someone who didn't?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "economy"
+  },
+  {
+    "question": "Should Minimum Support Price (MSP) be made a legal guarantee for farmers?",
+    "yes": {
+      "statement": "Yes. The hands that feed the nation shouldn't have to beg for a living wage.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Price controls are economic suicide. Let the market decide the value of a potato.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "economy"
+  },
+  {
+    "question": "Should there be a wealth tax on the super-rich?",
+    "yes": {
+      "statement": "Yes. No one 'earns' a billion dollars. They extract it.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Scare the rich away and see who builds your factories.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should gig workers (Zomato/Swiggy) be treated as full-time employees?",
+    "yes": {
+      "statement": "Yes. Algorithms shouldn't be allowed to exploit humans.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Flexibility is the future. Don't burden innovation with PF and gratuity.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should 70-hour work weeks be normalized for young professionals?",
+    "yes": {
+      "statement": "Yes. Sleep is for the weak. Nation-building requires sweat.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. We are humans, not batteries for the corporate machine.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should Public Sector Banks be privatized?",
+    "yes": {
+      "statement": "Yes. Government has no business being in the banking business.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Who will give loans to the poor farmer if the bank only chases profit?",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should agricultural income be taxed for rich farmers?",
+    "yes": {
+      "statement": "Yes. A rich farmer is just a businessman with a tractor. Tax them.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Do you want them parking their tractors on the Red Fort again?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "economy"
+  },
+  {
+    "question": "Should UPI transactions be charged a transaction fee?",
+    "yes": {
+      "statement": "Yes. Server costs aren't free. Convenience has a price.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Don't kill the goose that laid the digital egg.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should India transition to a 4-day work week?",
+    "yes": {
+      "statement": "Yes. Rested workers are productive workers.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We are a developing nation. We can't afford a long weekend.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should startup losses be subsidized by the government?",
+    "yes": {
+      "statement": "Yes. Innovation is risky. The state must cushion the fall.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. This is capitalism, not charity for tech bros.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should the government regulate the price of movie tickets?",
+    "yes": {
+      "statement": "Yes. Entertainment is a right, not a luxury for the elite.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If you want cheap seats, wait for it to come on TV.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should India ban the export of wheat/rice to protect domestic prices?",
+    "yes": {
+      "statement": "Yes. Feed our own people first. The world can wait.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. A contract is a contract. We can't be an unreliable trading partner.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should the government ban 'Freebies' (free electricity/bus rides) before elections?",
+    "yes": {
+      "statement": "Yes. You can't buy votes with the taxpayer's own money.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. In a poor country, welfare is the only thing keeping people alive.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should the government provide cash handouts (Ladli Behna/Mahalakshmi) to women?",
+    "yes": {
+      "statement": "Yes. If billionaires get tax holidays, homemakers deserve a salary.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Teach them to fish, don't bankrupt the pond.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should India push semiconductor manufacturing even if it requires heavy subsidies and land acquisition?",
+    "yes": {
+      "statement": "Yes. Strategic autonomy is expensive.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. National pride shouldn't evict livelihoods.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should farm loan waivers be used as an election promise despite long-term fiscal strain?",
+    "yes": {
+      "statement": "Yes. Survival comes before balance sheets.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Debt relief today is inflation tomorrow.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "economy"
+  },
+  {
+    "question": "Should governments offer free electricity and water even if utilities run at a loss?",
+    "yes": {
+      "statement": "Yes. Basics are rights, not luxuries.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Someone always pays the bill.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should India allow private players to fully manage railways?",
+    "yes": {
+      "statement": "Yes. Efficiency beats sentiment.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Public goods need public control.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should the government cap prices of essential medicines permanently?",
+    "yes": {
+      "statement": "Yes. Lives outrank profits.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Innovation dies under ceilings.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should India introduce a universal basic income?",
+    "yes": {
+      "statement": "Yes. Security enables risk-taking.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Dependency kills drive.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should India allow 100% FDI in the space sector?",
+    "yes": {
+      "statement": "Yes. Let Elon Musk compete with ISRO. May the best rocket win.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Space is strategic. We can't outsource our sovereignty.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should reservation policies be expanded to include the private sector?",
+    "yes": {
+      "statement": "Yes. Opportunity hoarding doesn't end at government gates.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Quotas kill competitiveness.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double",
+    "genre": "economy"
+  },
+  {
+    "question": "Should large tech companies be broken up to prevent monopolies?",
+    "yes": {
+      "statement": "Yes. Innovation dies under empires.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Scale is earned, not stolen.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should the state regulate prices of private school education?",
+    "yes": {
+      "statement": "Yes. Education isn't a commodity.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Quality follows competition.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  },
+  {
+    "question": "Should the Indian railways prioritize Vande Bharat trains over General sleepers?",
+    "yes": {
+      "statement": "Yes. We need world-class speed and comfort for those who can pay.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. The poor are travelling in cattle class while the rich get selfies.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "economy"
+  }
+]

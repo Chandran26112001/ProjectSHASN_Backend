@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Should heavy industries be allowed in eco-sensitive zones (like Joshi Math/Wayanad)?",
+    "yes": {
+      "statement": "Yes. You can't hug trees and expect the GDP to grow.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. When the mountain collapses, the stock market won't save you.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "environment"
+  },
+  {
+    "question": "Should petrol and diesel cars be banned by 2035?",
+    "yes": {
+      "statement": "Yes. The future is electric. The present is suffocating.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Let the market shift when the technology is ready, not by force.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "environment"
+  },
+  {
+    "question": "Should farmers be fined for burning stubble (causing pollution)?",
+    "yes": {
+      "statement": "Yes. Your harvest cannot be my lung cancer.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. They are feeding you. Provide a machine, don't send a challan.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "environment"
+  },
+  {
+    "question": "Should industrial hemp/cannabis cultivation be legalized?",
+    "yes": {
+      "statement": "Yes. It's a cash crop. Textiles, medicine, paper—it's green gold.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It's a gateway drug. We won't become a nation of stoners.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "environment"
+  },
+  {
+    "question": "Should environmental clearances be relaxed for large infrastructure projects to boost growth?",
+    "yes": {
+      "statement": "Yes. You can't eat forests.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Growth on a dead planet is cosplay.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "environment"
+  },
+  {
+    "question": "Should large infrastructure projects bypass local consent mechanisms?",
+    "yes": {
+      "statement": "Yes. National interest outweighs local vetoes.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Development without consent is occupation.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "environment"
+  },
+  {
+    "question": "If economic growth demands environmental damage today but promises technological fixes tomorrow, should the state proceed?",
+    "yes": {
+      "statement": "Yes. Poverty today kills faster than climate forecasts.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Borrowing from the future is moral bankruptcy.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "environment"
+  },
+  {
+    "question": "Should future generations have legal representation in today's policy decisions?",
+    "yes": {
+      "statement": "Yes. The unborn still bear the consequences.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Governance cannot answer to ghosts.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "environment"
+  }
+]

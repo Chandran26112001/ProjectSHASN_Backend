@@ -1,0 +1,223 @@
+[
+  {
+    "question": "Should AI be taxed to fund a Universal Basic Income for those who lose jobs?",
+    "yes": {
+      "statement": "Yes. If robots take the paychecks, they should pay the taxes.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't punish efficiency. Adapt or perish, that is the law of nature.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should crypto-currency be completely legalized and regulated?",
+    "yes": {
+      "statement": "Yes. It's the future of money. Don't get left in the past.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It's gambling disguised as technology. Shut it down.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should EVMs (Electronic Voting Machines) be replaced with paper ballots?",
+    "yes": {
+      "statement": "Yes. Technology can be hacked. Paper leaves a trail.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Do we want to count votes for three weeks? Welcome to the 21st century.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "technology"
+  },
+  {
+    "question": "Should the government have access to encrypted WhatsApp messages?",
+    "yes": {
+      "statement": "Yes. Privacy cannot be a shield for terrorists and criminals.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My memes and my secrets are none of the Home Ministry's business.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "technology"
+  },
+  {
+    "question": "Should internet shutdowns be used to control civil unrest?",
+    "yes": {
+      "statement": "Yes. Sometimes you have to pull the plug to stop the fire.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. You can't cure a headache by decapitation.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "technology"
+  },
+  {
+    "question": "Should India adopt a 'Digital Rupee' and phase out physical cash entirely?",
+    "yes": {
+      "statement": "Yes. Cash is for criminals. Digital is transparent.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. I want money I can hold, hide, and put under my mattress.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should Aadhar linkage be mandatory for voter ID cards?",
+    "yes": {
+      "statement": "Yes. One person, one vote. Eliminate the bogus voters.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My voting choice is not data for the surveillance state.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should the internet be shut down during government exams to prevent cheating?",
+    "yes": {
+      "statement": "Yes. Better offline than unfair.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. You don't burn the library because someone whispered.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should India prioritize space missions (Chandrayaan) over poverty alleviation?",
+    "yes": {
+      "statement": "Yes. We aim for the stars while they look at the gutter.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. You can't eat moon rocks.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should AI-powered facial recognition be deployed nationwide to pre-empt crime and unrest?",
+    "yes": {
+      "statement": "Yes. Prevention beats post-mortems.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. A watched citizen is already half-guilty.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should citizen data collected by the state be monetised by private firms?",
+    "yes": {
+      "statement": "Yes. Idle data is wasted capital.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Citizens are not raw material.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "technology"
+  },
+  {
+    "question": "Should mass surveillance using AI-powered facial recognition be accepted if it demonstrably reduces violent crime?",
+    "yes": {
+      "statement": "Yes. Safety is the first freedom.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. A watched society is already a controlled one.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "technology"
+  },
+  {
+    "question": "If an AI system demonstrably outperforms human judges in consistency and speed, should it be allowed to decide certain categories of cases?",
+    "yes": {
+      "statement": "Yes. Justice delayed by humans is injustice itself.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Justice without human conscience is tyranny by code.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "technology"
+  },
+  {
+    "question": "Should courts be allowed to order internet shutdowns during unrest?",
+    "yes": {
+      "statement": "Yes. Silence prevents wildfire.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Connectivity is a lifeline.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "technology"
+  },
+  {
+    "question": "Should data generated by citizens automatically belong to the state if it helps optimize public services?",
+    "yes": {
+      "statement": "Yes. Collective data should serve collective good.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Ownership of self includes ownership of data.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "technology"
+  },
+  {
+    "question": "If technology enables citizens to bypass the state entirely, should the state restrict it?",
+    "yes": {
+      "statement": "Yes. Authority must remain centralized to function.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. The state exists to serve, not trap.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "technology"
+  },
+  {
+    "question": "Should India deploy armed drones for internal security operations?",
+    "yes": {
+      "statement": "Yes. Precision beats boots.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Militarising policing erodes trust.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "technology"
+  }
+]

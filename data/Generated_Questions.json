@@ -1,15 +1,28 @@
 [
   {
-    "caution": "double",
-    "deck": "gpt",
+    "caution": "none",
+    "genre": "cricket",
     "no": {
       "persona": "THE IDEALIST",
-      "statement": "Handing cash to the masses liberates human potential from wage slavery, dismantling the brutal capitalist machine that starves families for profit."
+      "statement": "Cricket belongs to the people; restricting access to wealthy broadcasters undermines the community's love for the game and its cultural roots."
     },
-    "question": "Enact Universal Basic Income, dooming millions of lazy welfare leeches to a lifetime of drug-fueled degeneracy while bankrupting the nation to fund their reckless breeding sprees?",
+    "question": "Should the national cricket board prioritise lucrative international TV broadcasting deals over affordable access for local fans?",
     "yes": {
       "persona": "THE CAPITALIST",
-      "statement": "UBI forces the idle scum to confront their uselessness, unleashing market discipline to weed out parasites and ignite real innovation."
+      "statement": "Maximising TV revenue will fund better infrastructure, talent development, and global competitiveness for our cricket team."
+    }
+  },
+  {
+    "caution": "double",
+    "genre": "cricket",
+    "no": {
+      "persona": "THE IDEALIST",
+      "statement": "Preserve the people's joy—cricket fandom fuels national spirit and unity; authoritarian surveillance would shatter souls and breed resentment, dooming true progress."
+    },
+    "question": "Cricket fandom is bleeding national productivity dry with billions lost to match-day absenteeism and obsession—do you unleash AI surveillance on every worker's devices to detect and crush fandom distractions with instant job terminations, or let the economy bleed out?",
+    "yes": {
+      "persona": "THE CAPITALIST",
+      "statement": "Slash the deadweight—deploy ruthless AI monitoring to purge cricket obsession, skyrocket output, and fatten profits, no mercy for time-wasting fanatics."
     }
   }
 ]

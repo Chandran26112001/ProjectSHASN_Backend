@@ -1,0 +1,431 @@
+[
+  {
+    "question": "Should democracy protect people from their own long-term bad choices?",
+    "yes": {
+      "statement": "Yes. Freedom without foresight is self-harm.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Autonomy includes the right to fail.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If democratic choices consistently lead to inequality, should technocratic governance replace electoral politics?",
+    "yes": {
+      "statement": "Yes. Outcomes matter more than rituals.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Imperfect democracy beats perfect control.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If a government is elected fairly but later rules primarily to protect itself from losing power, should citizens still respect its legitimacy?",
+    "yes": {
+      "statement": "Yes. Legitimacy comes from the ballot, not intentions.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Power that fears accountability has already expired.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should citizens be legally required to consume state-verified news during national emergencies to prevent panic and misinformation?",
+    "yes": {
+      "statement": "Yes. Truth must be centralized when chaos threatens order.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Forced truth is just another form of propaganda.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If a majority willingly supports an unjust policy, does opposing it still make you democratic?",
+    "yes": {
+      "statement": "Yes. Democracy includes the right to resist the majority.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Democracy ends where majority choice begins.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should historical figures be judged primarily by the moral standards of their time rather than today's values?",
+    "yes": {
+      "statement": "Yes. Context matters more than contemporary outrage.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Harm does not expire with time.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If a social movement begins as peaceful but later turns disruptive, should its original demands still be honored?",
+    "yes": {
+      "statement": "Yes. Causes should not be invalidated by chaos.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Methods define legitimacy, not intentions.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should public outrage alone be sufficient grounds for removing someone from office or public life?",
+    "yes": {
+      "statement": "Yes. Trust, once lost, cannot be legislated back.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Mob sentiment is not due process.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If national security demands secrecy, should citizens accept not knowing the full truth?",
+    "yes": {
+      "statement": "Yes. Safety sometimes requires ignorance.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Power without transparency invites abuse.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should economic inequality be tolerated if absolute poverty is significantly reduced?",
+    "yes": {
+      "statement": "Yes. Lifting the floor matters more than flattening the ceiling.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Inequality reshapes power, not just income.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If a law is unjust but widely obeyed, is breaking it still morally valid?",
+    "yes": {
+      "statement": "Yes. Obedience does not equal justice.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Order collapses when laws become optional.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If most citizens willingly trade privacy for convenience, should dissenters still be protected by law?",
+    "yes": {
+      "statement": "Yes. Rights exist precisely to protect minorities.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Collective choice should prevail.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should the state intervene to preserve traditional cultural practices even if younger generations reject them?",
+    "yes": {
+      "statement": "Yes. Culture must be protected from erosion.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Culture survives only by choice, not force.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should votes be restricted for citizens who consistently abstain from civic duties like taxes or jury service?",
+    "yes": {
+      "statement": "Yes. Rights must mirror responsibility.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Democracy cannot condition participation.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should the state have the power to temporarily suspend elections during prolonged national emergencies?",
+    "yes": {
+      "statement": "Yes. Survival precedes procedure.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Emergencies are when democracy matters most.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If a democratically elected government repeatedly bypasses debate using ordinances, should courts intervene to limit its power?",
+    "yes": {
+      "statement": "Yes. Democracy is process, not just outcome.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Courts should not override the people's mandate.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should freedom of speech protections extend to speech that openly insults national symbols and collective identity?",
+    "yes": {
+      "statement": "Yes. National pride that fears words is already hollow.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Symbols bind society and deserve respect.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should citizenship benefits be prioritized for long-term residents who contribute economically, even if they lack formal documentation?",
+    "yes": {
+      "statement": "Yes. Contribution matters more than paperwork.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Citizenship cannot be negotiated on utility.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If a policy improves national averages but worsens outcomes for a specific region or community, should it still be pursued?",
+    "yes": {
+      "statement": "Yes. Nations are steered by aggregates, not exceptions.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Sacrificing the few corrodes the whole.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should a leader who delivers results but undermines institutions be tolerated?",
+    "yes": {
+      "statement": "Yes. Institutions exist to enable outcomes.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Destroying the system for success is failure.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should public morality be shaped by law or should law merely reflect existing morality?",
+    "yes": {
+      "statement": "Yes. Law must lead when society hesitates.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Imposed morality breeds silent rebellion.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If efficiency demands reducing empathy in governance, should empathy be sacrificed?",
+    "yes": {
+      "statement": "Yes. Systems work best without emotion.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Governance without empathy becomes machinery.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should loyalty to the nation outweigh loyalty to personal conscience?",
+    "yes": {
+      "statement": "Yes. Nations survive when individuals yield.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Conscience is the last line of defense.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If people knowingly accept an unfair system because it is predictable, should reform still be forced?",
+    "yes": {
+      "statement": "Yes. Comfort should not protect injustice.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Stability is a form of consent.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should governments prioritize being feared over being trusted during crises?",
+    "yes": {
+      "statement": "Yes. Fear enforces compliance faster than trust.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Fear obeys briefly; trust endures.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "If truth destabilizes society, should it be delayed?",
+    "yes": {
+      "statement": "Yes. Timing matters more than purity.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Delayed truth is engineered ignorance.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should population control measures be linked to welfare eligibility?",
+    "yes": {
+      "statement": "Yes. Responsibility precedes entitlement.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Poverty isn't a math problem.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should history textbooks be rewritten to reflect present-day national values?",
+    "yes": {
+      "statement": "Yes. History must serve the living.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Truth isn't seasonal.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should the government control curriculum content on sensitive historical events?",
+    "yes": {
+      "statement": "Yes. Stability requires restraint.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Sanitised history breeds ignorance.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should public officials be banned from religious symbolism while on duty?",
+    "yes": {
+      "statement": "Yes. The state must look neutral.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Identity doesn't clock out.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should India prioritise Hindi for official communication nationwide?",
+    "yes": {
+      "statement": "Yes. Unity needs a common tongue.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Diversity isn't a translation error.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should the government mandate a single national language for official communication to strengthen unity?",
+    "yes": {
+      "statement": "Yes. Unity requires a common tongue.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Forced uniformity erases lived diversity.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "philosophy"
+  },
+  {
+    "question": "Should public schools prioritise moral education aligned with national values?",
+    "yes": {
+      "statement": "Yes. Education shapes citizens, not just workers.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Morality isn't a syllabus.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "philosophy"
+  }
+]

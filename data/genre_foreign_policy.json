@@ -1,0 +1,275 @@
+[
+  {
+    "question": "Should India stop playing cricket with Pakistan in ICC tournaments?",
+    "yes": {
+      "statement": "Yes. You don't play games with the enemy while soldiers are dying.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's the biggest money-maker in sport. Cash over conflict.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India intervene militarily in neighborhood conflicts (like Bangladesh/Myanmar)?",
+    "yes": {
+      "statement": "Yes. Big Brother must keep the backyard clean.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. War is expensive. Let's sell them weapons instead.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India aggressively push for a permanent seat at the UN Security Council?",
+    "yes": {
+      "statement": "Yes. We are one-fifth of humanity. We demand our chair.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's a dying club. Let's build our own table.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India stop water sharing with Pakistan (Indus Water Treaty)?",
+    "yes": {
+      "statement": "Yes. Blood and water cannot flow together.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Using thirst as a weapon is a war crime.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India allow dual citizenship?",
+    "yes": {
+      "statement": "Yes. Our best talent is leaving. Let's keep them connected to the motherland.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. You can't ride two horses with one ass.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India adopt a 'No First Use' nuclear policy indefinitely?",
+    "yes": {
+      "statement": "Yes. We are the land of Gandhi. We don't start fires.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If the enemy pushes a button, I want to push mine faster.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India accept foreign aid during natural disasters?",
+    "yes": {
+      "statement": "Yes. Pride doesn't save lives. Help is help.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We are a superpower. We do not beg.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should foreign funding for NGOs be blocked?",
+    "yes": {
+      "statement": "Yes. They are foreign agents trying to stall our development.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. They do the work the government fails to do.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should foreign universities be allowed to set up campuses in India?",
+    "yes": {
+      "statement": "Yes. I want a Harvard degree without the Harvard price tag.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. They will teach our children to question our own values.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India bid to host the 2036 Olympics?",
+    "yes": {
+      "statement": "Yes. Imagine the opening ceremony! The lights, the cameras, the global envy!",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Let's fix our sewage systems before we invite the world over for a run.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should the Agniveer (short-term military service) scheme continue?",
+    "yes": {
+      "statement": "Yes. We need a lean, mean, youthful fighting machine. Plus, it saves pension money.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Soldiers are not seasonal workers. You can't rent patriotism.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should mandatory military training be introduced for youth?",
+    "yes": {
+      "statement": "Yes. A little discipline never hurt anyone. It builds character.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We need engineers and artists, not a militia.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India continue purchasing discounted Russian oil despite Western sanctions?",
+    "yes": {
+      "statement": "Yes. Foreign policy runs on interest, not guilt.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Moral ambiguity today becomes isolation tomorrow.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India openly mediate in the Israel–Palestine conflict to boost global stature?",
+    "yes": {
+      "statement": "Yes. Neutrality is influence.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Some fires burn the mediator.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India prioritise defence exports even if it fuels global conflicts?",
+    "yes": {
+      "statement": "Yes. If not us, someone else will.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Blood money smells the same everywhere.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India pre-emptively strike militant camps across borders if intelligence agencies believe an attack is inevitable, even without international consensus?",
+    "yes": {
+      "statement": "Yes. Waiting for permission is a luxury nations under threat cannot afford.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Acting alone today justifies retaliation tomorrow.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should refugee intake be capped strictly based on economic capacity rather than humanitarian obligation?",
+    "yes": {
+      "statement": "Yes. Compassion without capacity leads to collapse.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Humanity is not a budget line item.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India prioritise domestic defence needs over humanitarian aid abroad?",
+    "yes": {
+      "statement": "Yes. Charity begins at the border.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Global responsibility builds influence.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should India restrict foreign funding to NGOs involved in political advocacy?",
+    "yes": {
+      "statement": "Yes. Sovereignty isn't crowdsourced.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Civil society needs oxygen.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should foreign universities operate freely in India without local curriculum controls?",
+    "yes": {
+      "statement": "Yes. Knowledge thrives without borders.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Education shapes sovereignty.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "foreign_policy"
+  },
+  {
+    "question": "Should military service be mandatory for all citizens?",
+    "yes": {
+      "statement": "Yes. Rights demand sacrifice.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Forced patriotism is theatre.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "foreign_policy"
+  }
+]

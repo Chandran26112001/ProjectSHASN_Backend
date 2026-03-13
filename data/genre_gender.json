@@ -1,0 +1,184 @@
+[
+  {
+    "question": "Should marital rape be criminalized?",
+    "yes": {
+      "statement": "Yes. Consent doesn't expire just because you signed a marriage certificate.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. The government has no business entering the bedroom.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should women be granted menstrual leave in the corporate sector?",
+    "yes": {
+      "statement": "Yes. Biology is not a choice. Workplaces must adapt to humans.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. No one will hire women if they come with extra holidays attached.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "gender"
+  },
+  {
+    "question": "Should prostitution/sex work be completely legalized and regulated?",
+    "yes": {
+      "statement": "Yes. Protecting the world's oldest industry will reduce crime and disease.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Women cannot be allowed to sell their bodies for sin.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should same-sex marriage be fully legalized?",
+    "yes": {
+      "statement": "Yes. Love is love. The law should not be a third wheel.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Marriage is a sacred institution for procreation, not recreation.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should surrogacy be allowed for single men and LGBTQ couples?",
+    "yes": {
+      "statement": "Yes. Parenthood is a right, not a privilege for the married.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. A child needs a mother and a father, not a contract.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "gender"
+  },
+  {
+    "question": "Should women be allowed free entry to all monuments/museums?",
+    "yes": {
+      "statement": "Yes. They have been written out of history; let them at least see it for free.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Equality means paying the same ticket price.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "gender"
+  },
+  {
+    "question": "Should Live-in relationships be registered with the police (as per Uttarakhand UCC)?",
+    "yes": {
+      "statement": "Yes. Freedom needs a paper trail to ensure safety.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My love life does not require a NOC from the constable.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "gender"
+  },
+  {
+    "question": "Should strict population control laws (2-child policy) be enforced?",
+    "yes": {
+      "statement": "Yes. We are eating up our resources. Stop the explosion.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. The state belongs in the parliament, not the womb.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should India criminalise marital rape explicitly in law?",
+    "yes": {
+      "statement": "Yes. Consent doesn't end at marriage.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Criminal law will be misused.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should India allow commercial surrogacy under strict regulation?",
+    "yes": {
+      "statement": "Yes. Regulated choice beats black markets.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Bodies are not contracts.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should same-sex marriage be legalised even if it conflicts with religious doctrine?",
+    "yes": {
+      "statement": "Yes. Love is not subject to veto.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Social change cannot be judicially forced.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should alcohol sales be banned in states with high domestic violence rates?",
+    "yes": {
+      "statement": "Yes. Addiction fuels abuse.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Prohibition punishes everyone.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should children be legally allowed to question or opt out of their parents' religious identity once they reach adolescence?",
+    "yes": {
+      "statement": "Yes. Faith chosen is stronger than faith inherited.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Family continuity deserves protection.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "gender"
+  },
+  {
+    "question": "Should emotional harm be treated with the same seriousness as physical harm under the law?",
+    "yes": {
+      "statement": "Yes. Trauma leaves scars no less real.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Law needs measurable boundaries.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double",
+    "genre": "gender"
+  }
+]

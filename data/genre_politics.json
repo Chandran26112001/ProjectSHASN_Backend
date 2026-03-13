@@ -1,0 +1,509 @@
+[
+  {
+    "question": "Should India implement 'One Nation, One Election'?",
+    "yes": {
+      "statement": "Yes. Why pause the country's development every 6 months just to press a button?",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. I'd miss the constant carnival of rallies, roadshows, and free biryani.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should electoral bonds be brought back to fund political parties?",
+    "yes": {
+      "statement": "Yes. Money buys power. Let's not pretend we run on good wishes.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Democracy shouldn't have a 'Pay to Win' subscription model.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should convicted politicians be banned from contesting elections for life?",
+    "yes": {
+      "statement": "Yes. Parliament is a temple, not a rehabilitation center.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. The people are the ultimate judge. If they want a gangster, let them have him.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should India abandon the 'First Past the Post' electoral system for Proportional Representation?",
+    "yes": {
+      "statement": "Yes. A party with 30% votes shouldn't rule 100% of the people.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We need stable governments, not a coalition of chaos and confusion.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the state government have the power to appoint Vice-Chancellors instead of the Governor?",
+    "yes": {
+      "statement": "Yes. An elected government shouldn't be held hostage by a ceremonial figurehead.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Universities need federal oversight, not local political meddling.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should there be a cap on the number of terms for a Prime Minister?",
+    "yes": {
+      "statement": "Yes. Power corrupts. Indefinite power corrupts indefinitely.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If the people love me, who are you to stop me?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the government have a say in appointing judges (ending the Collegium)?",
+    "yes": {
+      "statement": "Yes. Unelected judges appointing other judges is an old boys' club.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We need judges who can say 'No' to the Prime Minister.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should voters have the 'Right to Recall' their MP if they underperform?",
+    "yes": {
+      "statement": "Yes. If I can return a defective toaster, I should be able to return a defective leader.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Elections are expensive. We can't have one every weekend.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should political defectors be barred from contesting for 5 years?",
+    "yes": {
+      "statement": "Yes. Stop the horse-trading. Politics isn't the IPL.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Ideologies change. People change. Let them switch teams.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should exit polls be banned until the final vote is counted?",
+    "yes": {
+      "statement": "Yes. They influence the voter rather than reflecting them.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. We need the drama, the suspense, and the TV ratings!",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should politicians be barred from holding posts in sports bodies (BCCI/WFI)?",
+    "yes": {
+      "statement": "Yes. Let the athletes run the game, not the power brokers.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Sports needs power and influence to survive. Who else brings the sponsors?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should sedition laws remain in the penal code?",
+    "yes": {
+      "statement": "Yes. The state must have the teeth to bite those who bark at it.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Criticism of the government is patriotism, not treason.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the government have a 'Fact Check Unit' to flag fake news about itself?",
+    "yes": {
+      "statement": "Yes. The state must protect the truth from malicious narratives.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Asking the liar to grade his own test is a bad idea.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should political parties be brought under the RTI (Right to Information) Act?",
+    "yes": {
+      "statement": "Yes. If you serve the public, you must be open to the public.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Strategy requires secrecy. We can't show our hand to the opponents.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should protestors be made to pay for damage to public property?",
+    "yes": {
+      "statement": "Yes. You break it, you buy it. Democracy is not a license to riot.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Property can be replaced, voices cannot. Dissent is messy.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should politicians be allowed to campaign based on caste?",
+    "yes": {
+      "statement": "Yes. It's the reality of India. Why pretend we are post-racial?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Identity politics is a poison that keeps us divided forever.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should 'Bulldozer Justice' be an acceptable tool for law enforcement?",
+    "yes": {
+      "statement": "Yes. Instant justice is the only language criminals understand.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We are a Republic, not a demolition company.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the government bulldoze the homes of accused criminals before trial?",
+    "yes": {
+      "statement": "Yes. The fear of the rubble is greater than the fear of the law.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. This is a democracy, not a construction site accident.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the 'Old Pension Scheme' (OPS) be restored for government employees?",
+    "yes": {
+      "statement": "Yes. A government servant deserves a secure retirement, not market risks.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Paying people for 30 years of not working will bankrupt the state.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the word 'Secular' be removed from the Preamble?",
+    "yes": {
+      "statement": "Yes. It was added during the Emergency. Let's correct the mistake.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It is the soul of the constitution. Don't touch it.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "politics"
+  },
+  {
+    "question": "Should Aadhaar-based biometric authentication be mandatory for voting to eliminate fraud, even if it risks excluding some citizens?",
+    "yes": {
+      "statement": "Yes. A clean democracy needs hard filters.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Participation matters more than perfection.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should India impose term limits on Prime Ministers?",
+    "yes": {
+      "statement": "Yes. Power decays quietly.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Experience compounds value.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should political parties receive state funding to curb corporate influence?",
+    "yes": {
+      "statement": "Yes. Democracy shouldn't be pay-to-play.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Taxpayers shouldn't bankroll incompetence.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should voting be compulsory with penalties for non-participation?",
+    "yes": {
+      "statement": "Yes. Citizenship demands effort.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Choice includes apathy.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should political defections trigger automatic re-elections?",
+    "yes": {
+      "statement": "Yes. Voters deserve consistency.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Politics isn't a prison.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should political rallies require prior digital clearance and crowd caps?",
+    "yes": {
+      "statement": "Yes. Order beats chaos.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Protest is not a ticketed event.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should unelected institutions have veto power over elected governments?",
+    "yes": {
+      "statement": "Yes. Guardrails matter more than speed.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Mandates trump manuals.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should courts have the power to overrule Parliament on moral legislation?",
+    "yes": {
+      "statement": "Yes. Rights outlive majorities.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Unelected vetoes erode democracy.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should public shaming be a valid tool against corruption?",
+    "yes": {
+      "statement": "Yes. Sunlight hurts more than jail.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Justice isn't a spectacle.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should election campaigns be capped strictly in spending and duration?",
+    "yes": {
+      "statement": "Yes. Money distorts consent.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Politics isn't a timed exam.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the government impose strict controls on protests that block highways and railways?",
+    "yes": {
+      "statement": "Yes. Infrastructure is not a bargaining chip.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Disruption is the language of the unheard.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should protestors be held financially liable for public property damage?",
+    "yes": {
+      "statement": "Yes. Dissent doesn't mean destruction.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Fear of fines kills protest.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should sedition laws be retained to handle modern misinformation campaigns?",
+    "yes": {
+      "statement": "Yes. Chaos wears many masks.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Dissent is not treason.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should political parties be banned from making promises that directly strain long-term fiscal stability?",
+    "yes": {
+      "statement": "Yes. Governance should be bound by economic reality.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Politics cannot be audited like a balance sheet.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "politics"
+  },
+  {
+    "question": "Should prisons focus more on rehabilitation than punishment?",
+    "yes": {
+      "statement": "Yes. Justice should heal.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Deterrence requires fear.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should judges be evaluated publicly on performance metrics?",
+    "yes": {
+      "statement": "Yes. Accountability strengthens trust.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Justice can't be KPI-driven.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should the death penalty be abolished?",
+    "yes": {
+      "statement": "Yes. An eye for an eye makes the whole world blind.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Some monsters do not deserve to breathe our air.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "politics"
+  },
+  {
+    "question": "Should there be a specific law against 'Paper Leaks' with heavy jail terms?",
+    "yes": {
+      "statement": "Yes. Cheating on an exam is treason against the nation's future.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. If the system leaks, fix the pipes, don't just jail the plumber.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "none",
+    "genre": "politics"
+  },
+  {
+    "question": "Should lateral entry (hiring experts directly) be allowed in bureaucracy?",
+    "yes": {
+      "statement": "Yes. We need CEOs running the country, not file-pushers.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It's a backdoor to bypass the reservation queue.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "politics"
+  }
+]

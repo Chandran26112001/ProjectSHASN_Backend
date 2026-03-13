@@ -1,0 +1,444 @@
+[
+  {
+    "question": "Should the country conduct a nationwide Caste Census?",
+    "yes": {
+      "statement": "Yes. You can't fix the system if you don't know who is broken.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Why divide the market into micro-segments when we can sell to 'India'?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should the 'Creamy Layer' exclusion be applied to SC/ST reservations?",
+    "yes": {
+      "statement": "Yes. A doctor's son shouldn't compete with a labourer's son for the same seat.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Social stigma doesn't check your bank balance before attacking.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should non-Muslims be appointed to Waqf Boards?",
+    "yes": {
+      "statement": "Yes. Secularism means everyone gets a seat at everyone else's table.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. You wouldn't ask a vegan to manage a steakhouse.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should private sector jobs have caste-based reservation?",
+    "yes": {
+      "statement": "Yes. Corporate boardrooms look too much like exclusive gymkhana clubs.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Merit is the only currency that matters in business.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should the Uniform Civil Code (UCC) be implemented nationwide?",
+    "yes": {
+      "statement": "Yes. One Nation, One Law. Why should religion dictate marriage and inheritance?",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Diversity is our strength. Don't paint a rainbow in black and white.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should temples be freed from government control?",
+    "yes": {
+      "statement": "Yes. Bureaucrats cannot manage faith. Return the gold to the gods.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's a revenue stream. Why should the state let go of a cash cow?",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should non-vegetarian food be banned in pilgrimage cities (like Haridwar/Ayodhya)?",
+    "yes": {
+      "statement": "Yes. Holiness requires purity. Keep the meat off the holy streets.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. My diet is not your jurisdiction. Freedom tastes like chicken.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should Halal certification be banned for non-meat products?",
+    "yes": {
+      "statement": "Yes. Why does my lipstick need religious approval?",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It opens up global markets. It's just a business standard.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should cities and roads with colonial/Islamic names be renamed?",
+    "yes": {
+      "statement": "Yes. Why honor the invaders? Reclaim our history.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Changing the signboard doesn't fix the pothole on the road.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should reservations be extended to Dalit Christians and Dalit Muslims?",
+    "yes": {
+      "statement": "Yes. Caste discrimination doesn't disappear just because you changed your god.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. These religions claim to have no caste. Let them prove it.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should traditional animal sports (Jallikattu/Kambala) be banned?",
+    "yes": {
+      "statement": "Yes. Culture is no excuse for cruelty.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. City folks who eat burgers shouldn't lecture farmers on animal love.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should coaching centers be banned for students under 16?",
+    "yes": {
+      "statement": "Yes. Let children have a childhood before the rat race begins.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. It's a free market. If parents want to buy success, let them.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "social"
+  },
+  {
+    "question": "Should mandatory military training be introduced for youth?",
+    "yes": {
+      "statement": "Yes. A little discipline never hurt anyone. It builds character.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. We need engineers and artists, not a militia.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "social"
+  },
+  {
+    "question": "Should alcohol be banned nationwide (Gujarat/Bihar model)?",
+    "yes": {
+      "statement": "Yes. Alcohol destroys families. Shut the tap.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Prohibition just creates a mafia. Let the tax money flow.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "social"
+  },
+  {
+    "question": "Should stray dogs be culled if they pose a threat to public safety?",
+    "yes": {
+      "statement": "Yes. Humans built the city. The city belongs to us.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. It's their planet too. We are just the ones paving over it.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should politicians be given VIP treatment at temples?",
+    "yes": {
+      "statement": "Yes. They are the kings of the modern era. Protocol matters.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. In the house of God, everyone stands in the same line.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "none",
+    "genre": "social"
+  },
+  {
+    "question": "Should evolution be removed from school textbooks below Class 10?",
+    "yes": {
+      "statement": "Yes. Our ancient texts have all the answers we need.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Science doesn't care about your beliefs. Don't dumb down the kids.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should spiritual gurus be allowed to market 'cure-all' medicines?",
+    "yes": {
+      "statement": "Yes. Faith heals more than chemistry ever will.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Science is not a matter of opinion or belief.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should firecrackers be banned nationwide during Diwali?",
+    "yes": {
+      "statement": "Yes. Tradition shouldn't mean choking to death.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't let the woke brigade steal our festivals.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should south Indian states get more seats in parliament despite lower population growth?",
+    "yes": {
+      "statement": "Yes. You shouldn't be punished for actually listening to family planning advice.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Democracy is about people, not land. More heads, more votes.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should Hindi be made mandatory in all non-Hindi speaking states?",
+    "yes": {
+      "statement": "Yes. One nation, one language. Let's understand each other.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. I don't need a translator to love my country.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should English be replaced by local languages in higher judiciary and courts?",
+    "yes": {
+      "statement": "Yes. Justice should be understood by the common man, not just the elite.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Law requires precision. Let's not get lost in translation.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should medical education be taught in Hindi/regional languages?",
+    "yes": {
+      "statement": "Yes. Why should a doctor need to know Shakespeare to cure a fever?",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "no": {
+      "statement": "No. Medicine is global. Don't isolate our doctors from the world.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should India enforce a strict two-child policy?",
+    "yes": {
+      "statement": "Yes. We are bursting at the seams. Quality over quantity.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. The state shouldn't dictate the size of my family dinner.",
+      "persona": "THE IDEALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should online betting and gambling apps be legal?",
+    "yes": {
+      "statement": "Yes. People will bet anyway. Legalize it and tax the addiction.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. It ruins the youth. Skill gaming is just a fancy word for a trap.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "none",
+    "genre": "social"
+  },
+  {
+    "question": "Should Euthanasia (Right to Die) be fully legalized?",
+    "yes": {
+      "statement": "Yes. My life, my exit. Dignity until the end.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Life is a gift from God. You can't return it.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should there be a tax on high-sugar/junk foods?",
+    "yes": {
+      "statement": "Yes. Make them pay for the diabetes epidemic.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Don't nanny me. If I want to eat trash, that's my liberty.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "none",
+    "genre": "social"
+  },
+  {
+    "question": "Should the government publish caste census data despite polarisation risks?",
+    "yes": {
+      "statement": "Yes. You can't fix what you refuse to count.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Numbers harden fault lines.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should religious processions be restricted if they disrupt traffic and public order?",
+    "yes": {
+      "statement": "Yes. Faith doesn't get right of way.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Culture isn't a weekend hobby.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should religious conversions be regulated by the state to prevent coercion?",
+    "yes": {
+      "statement": "Yes. Faith chosen under pressure isn't faith.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Belief doesn't need permission slips.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should the state regulate godmen and religious trusts like corporations?",
+    "yes": {
+      "statement": "Yes. Faith handling money needs audits.",
+      "persona": "THE CAPITALIST"
+    },
+    "no": {
+      "statement": "No. Belief cannot be balance-sheeted.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should blasphemy-like laws exist to prevent communal violence?",
+    "yes": {
+      "statement": "Yes. Peace sometimes needs restraint.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Fear is not harmony.",
+      "persona": "THE SHOWSTOPPER"
+    },
+    "caution": "double",
+    "genre": "social"
+  },
+  {
+    "question": "Should government jobs prioritise local candidates over merit rankings?",
+    "yes": {
+      "statement": "Yes. Representation stabilises society.",
+      "persona": "THE SUPREMO"
+    },
+    "no": {
+      "statement": "No. Merit is the only fair currency.",
+      "persona": "THE CAPITALIST"
+    },
+    "caution": "single",
+    "genre": "social"
+  },
+  {
+    "question": "Should large religious gatherings require government permits and caps?",
+    "yes": {
+      "statement": "Yes. Faith doesn't override safety.",
+      "persona": "THE IDEALIST"
+    },
+    "no": {
+      "statement": "No. Devotion isn't a ticketed event.",
+      "persona": "THE SUPREMO"
+    },
+    "caution": "double",
+    "genre": "social"
+  }
+]
